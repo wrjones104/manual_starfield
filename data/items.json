@@ -1,0 +1,722 @@
+[
+	{
+		"count":1,
+		"name": "Al-Battani System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alchiba System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Algorab System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alpha Andraste System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alpha Centauri System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alpha Marae System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alpha Ternion System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alpha Tirna System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Altair System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Andromas System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Aranae System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Archimedes System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Arcturus System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bannoc System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bannoc Secondus System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bara System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bardeen System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Barnard's Star System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bel System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bessel System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beta Andraste System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beta Marae System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beta Ternion System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beta Tirna System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bohr System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bolivar System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bradbury System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Carinae System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Celebrai System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Charybdis System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cheyenne System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Copernicus System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Copernicus Minor System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Decaran System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Delta Pavonis System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Delta Vulpes System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Denebola System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Enlil System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Eridani System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Eta Cassiopeia System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fermi System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Feynman System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Foucault System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Freya System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Gamma Vulpes System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Groombridge System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Guniibuu System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hawking System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Heinlein System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Heisenberg System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Huygens System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hyla System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Indum System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ixyll System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+		{
+		"count":1,
+		"name": "Jaffa System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kang System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kapteyn's Star System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Katydid System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Khayyam System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kryx System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kumasi System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lantana System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Leonis System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Leviathan System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Linnaeus System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lunara System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Luyten's Star System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Maal System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Maheo System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marduk System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Masada System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "McClure System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Moloch System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Muphrid System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Narion System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nemeria System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Newton System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nikola System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nirah System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nirvana System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Oborum Prime System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Oborum Proxima System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Olympus System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ophion System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Piazzi System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Porrima System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Procyon A System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Procyon B System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Proxima Ternion System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Pup System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pyraas System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rana System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rasalhague System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rivera System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rutherford System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sagan System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sakharov System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Schrodinger System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Serpentis System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shoza System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sirius System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sol System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sparta System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Strix System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Syrma System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tau Ceti System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tidacha System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Toliman System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ursae Majoris System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ursae Minoris System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Valo System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Van Maanen's Star System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vega System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Verne System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Volii System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wolf System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Xi Ophiuchi System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zelazny System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zeta Ophiuchi System",
+		"category": ["Star Systems"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zosma System",
+		"category": ["Star Systems"],
+		"progression": true
+	}
+]

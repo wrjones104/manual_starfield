@@ -1,0 +1,697 @@
+[
+	{
+		"name": "Apex Dust Devil Exorunner",
+		"category": ["Fauna A-F"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Apex Parrothawk",
+		"category": ["Fauna A-F"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Ashta",
+		"category": ["Fauna A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Baleen Rotifer",
+		"category": ["Fauna A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Bearclaw",
+		"category": ["Fauna A-F"],
+		"requires": []
+	},
+	{
+		"name": "Beetle Geophage",
+		"category": ["Fauna A-F"],
+		"requires": "|Alpha Andraste System| or |Cheyenne System|"
+	},
+	{
+		"name": "Beetle Grazer",
+		"category": ["Fauna A-F"],
+		"requires": "|Bara System| or |Groombridge System| or |Alpha Centauri System|"
+	},
+	{
+		"name": "Beetle Scavenger",
+		"category": ["Fauna A-F"],
+		"requires": "|Al-Battani System| or |Archimedes System| or |Beta Ternion System| or |Eridani System| or |Feynman System| or |Delta Pavonis System| or |Marduk System| or |Oborum Prime System| or |Pyraas System| or |Rutherford System| or |Schrodinger System|"
+	},
+	{
+		"name": "Beetlecrab",
+		"category": ["Fauna A-F"],
+		"requires": []
+	},
+	{
+		"name": "Beetlecrab Grazer",
+		"category": ["Fauna A-F"],
+		"requires": "|Feynman System| or |Ixyll System|"
+	},
+	{
+		"name": "Brightcage",
+		"category": ["Fauna A-F"],
+		"requires": []
+	},
+	{
+		"name": "Carasnail Scavenger",
+		"category": ["Fauna A-F"],
+		"requires": "|Alpha Centauri System| or |Kumasi System| or |Serpentis System|"
+	},
+	{
+		"name": "Centiskull Grazer",
+		"category": ["Fauna A-F"],
+		"requires": "|Algorab System| or |Eta Cassiopeia System| or |Cheyenne System| or |Vega System| or |Zeta Ophiuchi System|"
+	},
+	{
+		"name": "Coralcrawler",
+		"category": ["Fauna A-F"],
+		"requires": []
+	},
+	{
+		"name": "Coralheart Filterer",
+		"category": ["Fauna A-F"],
+		"requires": "|Andromas System| or |Bannoc System| or |Bohr System| or |Bradbury System| or |Leviathan System| or |Newton System| or |Narion System| or |Tidacha System|"
+	},
+	{
+		"name": "Coralheart Grazer",
+		"category": ["Fauna A-F"],
+		"requires": "|Guniibuu System| or |Oborum Prime System|"
+	},
+	{
+		"name": "Coralheart Herbivore",
+		"category": ["Fauna A-F"],
+		"requires": "|Procyon A System| or |Shoza System|"
+	},
+	{
+		"name": "Crawling Eurypterid",
+		"category": ["Fauna A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Crocodaunt",
+		"category": ["Fauna A-F"],
+		"requires": ["Vega System"]
+	},
+	{
+		"name": "Elk Crangon",
+		"category": ["Fauna A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Eggback Herbivore",
+		"category": ["Fauna A-F"],
+		"requires": ["Tau Ceti System"]
+	},
+	{
+		"name": "Flamethorn Grazer",
+		"category": ["Fauna A-F"],
+		"requires": "|Bel System| or |Charybdis System| or |Leonis System| or |Rivera System| or |Shoza System| or |Zelazny System|"
+	},
+	{
+		"name": "Flamethorn Herbivore",
+		"category": ["Fauna A-F"],
+		"requires": "|Kumasi System| or |Alpha Tirna System| or |Verne System|"
+	},
+	{
+		"name": "Flocking Ankylosaurus Geophage",
+		"category": ["Fauna A-F"],
+		"requires": ["Valo System"]
+	},
+	{
+		"name": "Flocking Glowhand Grazer",
+		"category": ["Fauna A-F"],
+		"requires": ["Tidacha System"]
+	},
+	{
+		"name": "Flocking Hornface Grazer",
+		"category": ["Fauna A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Flocking Octomaggot Grazer",
+		"category": ["Fauna A-F"],
+		"requires": "|Masada System| or |Procyon A System|"
+	},
+	{
+		"name": "Flocking Orchid Scavenger",
+		"category": ["Fauna A-F"],
+		"requires": ["Arcturus System"]
+	},
+	{
+		"name": "Flocking Shardhopper Geophage",
+		"category": ["Fauna A-F"],
+		"requires": "|Alpha Centauri System| or |Lantana System|"
+	},
+	{
+		"name": "Flocking Toadface Herbivore",
+		"category": ["Fauna A-F"],
+		"requires": ["Alpha Tirna System"]
+	},
+	{
+		"name": "Flocking Trident Grazer",
+		"category": ["Fauna A-F"],
+		"requires": ["Volii System"]
+	},
+	{
+		"name": "Glider Scavenger",
+		"category": ["Fauna G-L"],
+		"requires": "|Beta Ternion System| or |Eridani System|"
+	},
+	{
+		"name": "Glowhands Grazer",
+		"category": ["Fauna G-L"],
+		"requires": ["Shoza System"]
+	},
+	{
+		"name": "Gossamer Scavenger",
+		"category": ["Fauna G-L"],
+		"requires": "|Procyon A System| or |Zosma System|"
+	},
+	{
+		"name": "Grabber Filterer",
+		"category": ["Fauna G-L"],
+		"requires": "|Denebola System| or |Gamma Vulpes System| or |Jaffa System| or |Valo System| or |Shoza System|"
+	},
+	{
+		"name": "Grazing Ensifer",
+		"category": ["Fauna G-L"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Herding Bighorn Geophage",
+		"category": ["Fauna G-L"],
+		"requires": ["Valo System"]
+	},
+	{
+		"name": "Herding Boneback Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Denebola System| or |Ixyll System| or |Newton System|"
+	},
+	{
+		"name": "Herding Boneback Scavenger",
+		"category": ["Fauna G-L"],
+		"requires": ["Narion System"]
+	},
+	{
+		"name": "Herding Bonemane Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Delta Pavonis System| or |Tau Ceti System|"
+	},
+	{
+		"name": "Herding Brainsprout Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Arcturus System| or |Feynman System| or |Rutherford System|"
+	},
+	{
+		"name": "Herding Coralcrawler Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Procyon A System| or |Ursae Minoris System|"
+	},
+	{
+		"name": "Herding Coralbucket Filterer",
+		"category": ["Fauna G-L"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Herding Crab Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Ixyll System| or |Muphrid System| or |Serpentis System|"
+	},
+	{
+		"name": "Herding Crab Herbivore",
+		"category": ["Fauna G-L"],
+		"requires": "|Serpentis System| or |Tidacha System|"
+	},
+	{
+		"name": "Herding Crabfly Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Decaran System| or |Procyon A System| or |Schrodinger System|"
+	},
+	{
+		"name": "Herding Horsamander Herbivore",
+		"category": ["Fauna G-L"],
+		"requires": ["Vega System"]
+	},
+	{
+		"name": "Herding Leafbug Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Porrima System| or |Serpentis System|"
+	},
+	{
+		"name": "Herding Octomaggot Herbivore",
+		"category": ["Fauna G-L"],
+		"requires": ["Shoza System"]
+	},
+	{
+		"name": "Herding Scoopback Geophage",
+		"category": ["Fauna G-L"],
+		"requires": "|Al-Battani System| or |Strix System|"
+	},
+	{
+		"name": "Herding Trihorn Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Alpha Andraste System| or |Bradbury System| or |Valo System|"
+	},
+	{
+		"name": "Herding Vuvuzelisk Grazer",
+		"category": ["Fauna G-L"],
+		"requires": "|Beta Ternion System| or |Eridani System| or |Ursae Majoris System|"
+	},
+	{
+		"name": "Hunting Ankylosaurus",
+		"category": ["Fauna G-L"],
+		"requires": ["Tau Ceti System"]
+	},
+	{
+		"name": "Hunting Bighorn",
+		"category": ["Fauna G-L"],
+		"requires": "|Eridani System| or |Toliman System|"
+	},
+	{
+		"name": "Hunting Boneshell",
+		"category": ["Fauna G-L"],
+		"requires": "|Archimedes System| or |Beta Marae System| or |Cheyenne System|"
+	},
+	{
+		"name": "Hunting Coralcrab",
+		"category": ["Fauna G-L"],
+		"requires": "|Bradbury System| or |Eridani System| or |Jaffa System| or |Alpha Tirna System| or |Ursae Majoris System|"
+	},
+	{
+		"name": "Hunting Crab",
+		"category": ["Fauna G-L"],
+		"requires": "|Beta Ternion System| or |Eridani System| or |Narion System|"
+	},
+	{
+		"name": "Hunting Cricket",
+		"category": ["Fauna G-L"],
+		"requires": "|Archimedes System| or |Beta Ternion System| or |Shoza System| or |Tau Ceti System| or |Alpha Tirna System|"
+	},
+	{
+		"name": "Hunting Kronosaurus",
+		"category": ["Fauna G-L"],
+		"requires": ["Procyon A System"]
+	},
+	{
+		"name": "Hunting Landshark",
+		"category": ["Fauna G-L"],
+		"requires": "|Arcturus System| or |Beta Ternion System| or |Shoza System|"
+	},
+	{
+		"name": "Hunting Leafstrider",
+		"category": ["Fauna G-L"],
+		"requires": "|Aranae System| or |Eridani System|"
+	},
+	{
+		"name": "Hunting Nightmare",
+		"category": ["Fauna G-L"],
+		"requires": ["Ixyll System"]
+	},
+	{
+		"name": "Hunting Sailgator",
+		"category": ["Fauna G-L"],
+		"requires": "|Maal System| or |McClure System| or |Tidacha System|"
+	},
+	{
+		"name": "Hunting Shieldshell",
+		"category": ["Fauna G-L"],
+		"requires": "|Delta Vulpes System| or |Heinlein System| or |Huygens System| or |Muphrid System| or |Newton System| or |Procyon A System| or |Sparta System| or |Ursae Minoris System|"
+	},
+	{
+		"name": "Hunting Tentabeard",
+		"category": ["Fauna G-L"],
+		"requires": ["Shoza System"]
+	},
+	{
+		"name": "Hunting Tuskfrog",
+		"category": ["Fauna G-L"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Milliwhale Geophage",
+		"category": ["Fauna M-R"],
+		"requires": "|Muphrid System| or |Shoza System|"
+	},
+	{
+		"name": "Milliwhale Grazer",
+		"category": ["Fauna M-R"],
+		"requires": "|Porrima System| or |Alpha Tirna System| or |Zelazny System|"
+	},
+	{
+		"name": "Mossgnath",
+		"category": ["Fauna M-R"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Mothwing Grazer",
+		"category": ["Fauna M-R"],
+		"requires": ["Tidacha System"]
+	},
+	{
+		"name": "Nautilus Scavenger",
+		"category": ["Fauna M-R"],
+		"requires": ["Vega System"]
+	},
+	{
+		"name": "Pack Ankylosaurus",
+		"category": ["Fauna M-R"],
+		"requires": "|Archimedes System| or |Porrima System| or |Rivera System| or |Tau Ceti System| or |Lunara System|"
+	},
+	{
+		"name": "Pack Caterpillar",
+		"category": ["Fauna M-R"],
+		"requires": ["Zeta Ophiuchi System"]
+	},
+	{
+		"name": "Pack Coralbug",
+		"category": ["Fauna M-R"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Pack Coralbug Stalker",
+		"category": ["Fauna M-R"],
+		"requires": ["Procyon A System"]
+	},
+	{
+		"name": "Pack Coralcrab Stalker",
+		"category": ["Fauna M-R"],
+		"requires": ["Procyon A System"]
+	},
+	{
+		"name": "Pack Crab",
+		"category": ["Fauna M-R"],
+		"requires": "|Denebola System| or |Hawking System|"
+	},
+	{
+		"name": "Pack Glowhands",
+		"category": ["Fauna M-R"],
+		"requires": "|Ixyll System| or |Khayyam System|"
+	},
+	{
+		"name": "Pack Hammersaur",
+		"category": ["Fauna M-R"],
+		"requires": "|Rana System| or |Shoza System| or |Sparta System|"
+	},
+	{
+		"name": "Pack Scarab",
+		"category": ["Fauna M-R"],
+		"requires": "|Leonis System| or |Marduk System| or |Muphrid System| or |Schrodinger System| or |Vega System| or |Zelazny System|"
+	},
+	{
+		"name": "Pack Prong Wing Seabat",
+		"category": ["Fauna M-R"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Pearl Filterer",
+		"category": ["Fauna M-R"],
+		"requires": "|Bannoc System| or |Denebola System| or |Oborum Prime System|"
+	},
+	{
+		"name": "Pinecone Scavenger",
+		"category": ["Fauna M-R"],
+		"requires": ["Eridani System"]
+	},
+	{
+		"name": "Schooling Featherfin Filterer",
+		"category": ["Fauna S-Z"],
+		"requires": "|Cheyenne System| or |Procyon A System|"
+	},
+	{
+		"name": "Seahag",
+		"category": ["Fauna S-Z"],
+		"requires": []
+	},
+	{
+		"name": "Sloth Grazer",
+		"category": ["Fauna S-Z"],
+		"requires": ["Vega System"]
+	},
+	{
+		"name": "Spaceroach Filterer",
+		"category": ["Fauna S-Z"],
+		"requires": "|Beta Ternion System| or |Eridani System| or |Ixyll System| or |Porrima System| or |Syrma System|"
+	},
+	{
+		"name": "Sunflower Filterer",
+		"category": ["Fauna S-Z"],
+		"requires": []
+	},
+	{
+		"name": "Sunfish Filterer",
+		"category": ["Fauna S-Z"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Swarming Dragon",
+		"category": ["Fauna S-Z"],
+		"requires": ["Tidacha System"]
+	},
+	{
+		"name": "Swarming Foxbat",
+		"category": ["Fauna S-Z"],
+		"requires": ["Schrodinger System"]
+	},
+	{
+		"name": "Swarming Scorpion",
+		"category": ["Fauna S-Z"],
+		"requires": ["Marduk System"]
+	},
+	{
+		"name": "Thorn Scavenger",
+		"category": ["Fauna S-Z"],
+		"requires": "|Algorab System| or |Bohr System| or |Ixyll System| or |Zosma System|"
+	},
+	{
+		"name": "Abyss Pine Seedling",
+		"category": ["Flora A-F"],
+		"requires": ["Narion System"]
+	},
+	{
+		"name": "Arc Root",
+		"category": ["Flora A-F"],
+		"requires": ["Lunara System"]
+	},
+	{
+		"name": "Aurora Palm",
+		"category": ["Flora A-F"],
+		"requires": "|Alpha Centauri System| or |Lunara System|"
+	},
+	{
+		"name": "Bitter Goldenglow",
+		"category": ["Flora A-F"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Bleeding Heart Vine",
+		"category": ["Flora A-F"],
+		"requires": ["Bardeen System"]
+	},
+	{
+		"name": "Blooming Slopefeather",
+		"category": ["Flora A-F"],
+		"requires": ["Denebola System"]
+	},
+	{
+		"name": "Bog Bloom",
+		"category": ["Flora A-F"],
+		"requires": ["Procyon A System"]
+	},
+	{
+		"name": "Boreas Root",
+		"category": ["Flora A-F"],
+		"requires": ["Tidacha System"]
+	},
+	{
+		"name": "Bowing Shadeleaf",
+		"category": ["Flora A-F"],
+		"requires": ["Bardeen System"]
+	},
+	{
+		"name": "Broadleaf Rose",
+		"category": ["Flora A-F"],
+		"requires": []
+	},
+	{
+		"name": "Canary Reed",
+		"category": ["Flora A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Canis Palm",
+		"category": ["Flora A-F"],
+		"requires": []
+	},
+	{
+		"name": "Chillhook",
+		"category": ["Flora A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Crimson Gibbet",
+		"category": ["Flora A-F"],
+		"requires": ["Tau Ceti System"]
+	},
+	{
+		"name": "Crusher Leaf",
+		"category": ["Flora A-F"],
+		"requires": []
+	},
+	{
+		"name": "Dunetangle",
+		"category": ["Flora A-F"],
+		"requires": ["Porrima System"]
+	},
+	{
+		"name": "Frigid Palm",
+		"category": ["Flora A-F"],
+		"requires": "|Guniibuu System| or |Linnaeus System|"
+	},
+	{
+		"name": "Frost Reed",
+		"category": ["Flora A-F"],
+		"requires": ["Narion System"]
+	},
+		{
+		"name": "Gasping Fireleaf",
+		"category": ["Flora G-L"],
+		"requires": []
+	},
+		{
+		"name": "Glossy Stickwweed",
+		"category": ["Flora G-L"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Golden Creeper",
+		"category": ["Flora G-L"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Haviva Vine",
+		"category": ["Flora G-L"],
+		"requires": ["Alpha Andraste System"]
+	},
+	{
+		"name": "Hecate's Fireleaf",
+		"category": ["Flora G-L"],
+		"requires": "|Arcturus System| or |Porrima System|"
+	},
+		{
+		"name": "Ice Creeper",
+		"category": ["Flora G-L"],
+		"requires": ["Tidacha System"]
+	},
+		{
+		"name": "Lattice Leaf",
+		"category": ["Flora G-L"],
+		"requires": ["Alpha Andraste System"]
+	},
+	{
+		"name": "Nebula Vine",
+		"category": ["Flora M-R"],
+		"requires": ["Narion System"]
+	},
+		{
+		"name": "Sandclaw",
+		"category": ["Flora S-Z"],
+		"requires": ["Porrima System"]
+	},
+		{
+		"name": "Sandy Goldenglow",
+		"category": ["Flora S-Z"],
+		"requires": ["Cheyenne System"]
+	},
+		{
+		"name": "Savanna Sweetbrush",
+		"category": ["Flora S-Z"],
+		"requires": ["Cheyenne System"]
+	},
+		{
+		"name": "Scarlet Hillfrond",
+		"category": ["Flora S-Z"],
+		"requires": ["Schrodinger System"]
+	},
+		{
+		"name": "Spiral Bloom",
+		"category": ["Flora S-Z"],
+		"requires": ["Ixyll System"]
+	},
+		{
+		"name": "Spiral Creeper",
+		"category": ["Flora S-Z"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Spirit Laurel",
+		"category": ["Flora S-Z"],
+		"requires": ["Ixyll System"]
+	},
+		{
+		"name": "Spitting Goatweed",
+		"category": ["Flora S-Z"],
+		"requires": ["Alpha Andraste System"]
+	},
+		{
+		"name": "Spitting Pokeweed",
+		"category": ["Flora S-Z"],
+		"requires": ["Alpha Andraste System"]
+	},
+		{
+		"name": "Star Bloom Root",
+		"category": ["Flora S-Z"],
+		"requires": ["Al-Battani System"]
+	},
+		{
+		"name": "Starburst Silkweed",
+		"category": ["Flora S-Z"],
+		"requires": []
+	},
+		{
+		"name": "Swamp Bottle Root",
+		"category": ["Flora S-Z"],
+		"requires": ["Alpha Centauri System"]
+	},
+		{
+		"name": "Swamp Weed",
+		"category": ["Flora S-Z"],
+		"requires": ["Procyon A System"]
+	},
+		{
+		"name": "Sweetwater Cactus",
+		"category": ["Flora S-Z"],
+		"requires": ["Alpha Centauri System"]
+	},
+		{
+		"name": "Sweet Canis Vine",
+		"category": ["Flora S-Z"],
+		"requires": []
+	},
+		{
+		"name": "Sweet Fumewort",
+		"category": ["Flora S-Z"],
+		"requires": []
+	},
+		{
+		"name": "Sweet Root",
+		"category": ["Flora S-Z"],
+		"requires": ["Alpha Andraste System"]
+	},
+		{
+		"name": "Sweet Yellow Creeper",
+		"category": ["Flora S-Z"],
+		"requires": ["Ixyll System"]
+	},
+		{
+		"name": "Titan Coleus",
+		"category": ["Flora S-Z"],
+		"requires": []
+	},
+		{
+		"name": "Tremor Root",
+		"category": ["Flora S-Z"],
+		"requires": []
+	}
+]
