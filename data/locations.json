@@ -1,13 +1,38 @@
 [
 	{
-		"name": "Apex Dust Devil Exorunner",
+		"name": "Angler",
 		"category": ["Fauna A-F"],
-		"requires": ["Alpha Centauri System"]
+		"requires": "|Copernicus System| or |Guniibuu System|"
 	},
 	{
-		"name": "Apex Parrothawk",
+		"name": "Ankylosaurus",
 		"category": ["Fauna A-F"],
-		"requires": ["Alpha Centauri System"]
+		"requires": "|Khayyam System| or |Schrodinger System| or |Valo System| or |Proxima Ternion System| or |Tau Ceti System| or |Archimedes System| or |Porrima System| or |Rivera System| or |Lunara System|"
+	},
+	{
+		"name": "Anteater",
+		"category": ["Fauna A-F"],
+		"requires": ["Enlil System"]
+	},
+	{
+		"name": "Arachnofly",
+		"category": ["Fauna A-F"],
+		"requires": "|Zosma System| or |Strix System|"
+	},
+	{
+		"name": "Arachnomantis",
+		"category": ["Fauna A-F"],
+		"requires": ["Nirah System"]
+	},
+	{
+		"name": "Arapaima",
+		"category": ["Fauna A-F"],
+		"requires": "|Leonis System| or |Kumasi System| or |Huygens System|"
+	},
+	{
+		"name": "Artichoke",
+		"category": ["Fauna A-F"],
+		"requires": "|Shoza System| or |Maal System|"
 	},
 	{
 		"name": "Ashta",
@@ -22,77 +47,282 @@
 	{
 		"name": "Bearclaw",
 		"category": ["Fauna A-F"],
-		"requires": []
+		"requires": ["Oborum Prime System"]
 	},
 	{
-		"name": "Beetle Geophage",
+		"name": "Beetle",
 		"category": ["Fauna A-F"],
-		"requires": "|Alpha Andraste System| or |Cheyenne System|"
-	},
-	{
-		"name": "Beetle Grazer",
-		"category": ["Fauna A-F"],
-		"requires": "|Bara System| or |Groombridge System| or |Alpha Centauri System|"
-	},
-	{
-		"name": "Beetle Scavenger",
-		"category": ["Fauna A-F"],
-		"requires": "|Al-Battani System| or |Archimedes System| or |Beta Ternion System| or |Eridani System| or |Feynman System| or |Delta Pavonis System| or |Marduk System| or |Oborum Prime System| or |Pyraas System| or |Rutherford System| or |Schrodinger System|"
+		"requires": "|Heinlein System| or |Shoza System| or |Tau Ceti System| or |Xi Ophiuchi System| or |Alpha Andraste System| or |Cheyenne System| or |Bara System| or |Groombridge System| or |Alpha Centauri System| or |Al-Battani System| or |Archimedes System| or |Beta Ternion System| or |Eridani System| or |Feynman System| or |Delta Pavonis System| or |Marduk System| or |Oborum Prime System| or |Pyraas System| or |Rutherford System| or |Schrodinger System|"
 	},
 	{
 		"name": "Beetlecrab",
 		"category": ["Fauna A-F"],
-		"requires": []
+		"requires": "|Feynman System| or |Ixyll System| or |Schrodinger System| or |Oborum Prime System| or |Porrima System| or |Beta Marae System| or |Nirvana System| or |Proxima Ternion System| or |Huygens System|"
 	},
 	{
-		"name": "Beetlecrab Grazer",
+		"name": "Bighorn",
 		"category": ["Fauna A-F"],
-		"requires": "|Feynman System| or |Ixyll System|"
+		"requires": "|Valo System| or |Eridani System| or |Toliman System|"
+	},
+	{
+		"name": "Bladeback",
+		"category": ["Fauna A-F"],
+		"requires": ["Alpha Ternion System"]
+	},
+	{
+		"name": "Bladehead",
+		"category": ["Fauna A-F"],
+		"requires": "|Porrima System| or |Zelazny System| or |Valo System| or |Beta Marae System|"
+	},
+	{
+		"name": "Blistercrab",
+		"category": ["Fauna A-F"],
+		"requires": "|Serpentis System| or |Newton System| or |Serpentis System| or |Alpha Ternion System| or |Alpha Tirna System| or |Algorab System|"
+	},
+	{
+		"name": "Boneback",
+		"category": ["Fauna A-F"],
+		"requires": "|Heinlein System| or |Denebola System| or |Ixyll System| or |Newton System| or |Narion System| or |Kang System| or |Bradbury System|"
+	},
+	{
+		"name": "Bonecrest",
+		"category": ["Fauna A-F"],
+		"requires": ["Proxima Ternion System"]
+	},
+	{
+		"name": "Bonefrill",
+		"category": ["Fauna A-F"],
+		"requires": "|Shoza System| or |Muphrid System| or |Maal System| or |Nirvana System| or |Rana System| or |Serpentis System| or |Lunara System| or |Rutherford System|"
+	},
+	{
+		"name": "Boneglider",
+		"category": ["Fauna A-F"],
+		"requires": "|Nirah System| or |Ixyll System|"
+	},
+	{
+		"name": "Bonemane",
+		"category": ["Fauna A-F"],
+		"requires": "|Delta Pavonis System| or |Tau Ceti System| or |Bel System| or |Valo System|"
+	},
+	{
+		"name": "Boneshell",
+		"category": ["Fauna A-F"],
+		"requires": "|Kumasi System| or |Archimedes System| or |Beta Marae System| or |Cheyenne System| or |Zelazny System|"
+	},
+	{
+		"name": "Brainblimp",
+		"category": ["Fauna A-F"],
+		"requires": "|Hyla System| or |Nemeria System| or |Andromas System| or |Syrma System|"
+	},
+	{
+		"name": "Brainsprout",
+		"category": ["Fauna A-F"],
+		"requires": "|Lantana System| or |Beta Ternion System| or |Serpentis System| or |Zelazny System| or |Marduk System| or |Arcturus System| or |Feynman System| or |Rutherford System| or |Eta Cassiopeia System| or |Enlil System| or |Kumasi System| or |Andromas System|"
+	},
+	{
+		"name": "Brainsquid",
+		"category": ["Fauna A-F"],
+		"requires": "|Lantana System| or |Bara System| or |Bolivar System| or |Feynman System| or |Kumasi System|"
 	},
 	{
 		"name": "Brightcage",
 		"category": ["Fauna A-F"],
-		"requires": []
+		"requires": "|Eridani System| or |Zeta Ophiuchi System| or |Altair System| or |Groombridge System| or |Beta Marae System|"
 	},
 	{
-		"name": "Carasnail Scavenger",
-		"category": ["Fauna A-F"],
-		"requires": "|Alpha Centauri System| or |Kumasi System| or |Serpentis System|"
-	},
-	{
-		"name": "Centiskull Grazer",
-		"category": ["Fauna A-F"],
-		"requires": "|Algorab System| or |Eta Cassiopeia System| or |Cheyenne System| or |Vega System| or |Zeta Ophiuchi System|"
-	},
-	{
-		"name": "Coralcrawler",
-		"category": ["Fauna A-F"],
-		"requires": []
-	},
-	{
-		"name": "Coralheart Filterer",
-		"category": ["Fauna A-F"],
-		"requires": "|Andromas System| or |Bannoc System| or |Bohr System| or |Bradbury System| or |Leviathan System| or |Newton System| or |Narion System| or |Tidacha System|"
-	},
-	{
-		"name": "Coralheart Grazer",
-		"category": ["Fauna A-F"],
-		"requires": "|Guniibuu System| or |Oborum Prime System|"
-	},
-	{
-		"name": "Coralheart Herbivore",
-		"category": ["Fauna A-F"],
-		"requires": "|Procyon A System| or |Shoza System|"
-	},
-	{
-		"name": "Crawling Eurypterid",
+		"name": "Buzzrunner",
 		"category": ["Fauna A-F"],
 		"requires": ["Cheyenne System"]
 	},
 	{
+		"name": "Cagebrain",
+		"category": ["Fauna A-F"],
+		"requires": "|Sparta System| or |Newton System| or |Cheyenne System| or |Zelazny System| or |Tau Ceti System| or |Kumasi System| or |Lantana System| or |Piazzi System| or |Bradbury System| or |Enlil System|"
+	},
+	{
+		"name": "Canard",
+		"category": ["Fauna A-F"],
+		"requires": "|Andromas System| or |Huygens System| or |Linnaeus System| or |Serpentis System|"
+	},
+	{
+		"name": "Carasnail",
+		"category": ["Fauna A-F"],
+		"requires": "|Zeta Ophiuchi System| or |Alpha Ternion System| or |Toliman System| or |Decaran System| or |Volii System| or |Zelazny System| or |Alpha Centauri System| or |Kumasi System| or |Serpentis System|"
+	},
+	{
+		"name": "Cassowary",
+		"category": ["Fauna A-F"],
+		"requires": "|Groombridge System| or |Heinlein System| or |Schrodinger System| or |Porrima System|"
+	},
+	{
+		"name": "Caterpillar",
+		"category": ["Fauna A-F"],
+		"requires": "|Newton System| or |Shoza System| or |Bara System| or |Decaran System| or |Copernicus Minor System| or |Zeta Ophiuchi System|"
+	},
+	{
+		"name": "Cephalopod",
+		"category": ["Fauna A-F"],
+		"requires": "|Kumasi System| or |Nirvana System| or |Charybdis System|"
+	},
+	{
+		"name": "Centiskull",
+		"category": ["Fauna A-F"],
+		"requires": "|Serpentis System| or |Tau Ceti System| or |Altair System| or |Algorab System| or |Eta Cassiopeia System| or |Cheyenne System| or |Vega System| or |Zeta Ophiuchi System| or |Katydid System| or |Feynman System| or |Hyla System|"
+	},
+	{
+		"name": "Chasmbass",
+		"category": ["Fauna A-F"],
+		"requires": ["Volii System"]
+	},
+	{
+		"name": "Clawback",
+		"category": ["Fauna A-F"],
+		"requires": "|Muphrid System| or |Kryx System| or |Feynman System| or |Syrma System| or |Rana System| or |Fermi System| or |Lantana System| or |Pyraas System|"
+	},
+	{
+		"name": "Clickbeetle",
+		"category": ["Fauna A-F"],
+		"requires": "|Archimedes System| or |Marduk System| or |Guniibuu System| or |Kumasi System| or |Alpha Andraste System| or |Copernicus System| or |Feynman System| or |Serpentis System| or |Bardeen System|"
+	},
+	{
+		"name": "Cobalt",
+		"category": ["Fauna A-F"],
+		"requires": ["Beta Andraste System"]
+	},
+	{
+		"name": "Cockatrice",
+		"category": ["Fauna A-F"],
+		"requires": "|Zelazny System| or |Cheyenne System|"
+	},
+	{
+		"name": "Cockroach",
+		"category": ["Fauna A-F"],
+		"requires": "|Copernicus System| or |Jaffa System| or |Decaran System| or |Foucault System| or |Moloch System| or |Rana System| or |Alpha Tirna System| or |Zosma System| or |Fermi System| or |Lantana System|"
+	},
+	{
+		"name": "Coralbucket",
+		"category": ["Fauna A-F"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Coralbug",
+		"category": ["Fauna A-F"],
+		"requires": "|Khayyam System| or |Eta Cassiopeia System| or |Ursae Minoris System| or |Bannoc System| or |Feynman System| or |Ixyll System| or |Xi Ophiuchi System| or |Moloch System| or |Alpha Centauri System| or |Procyon A System|"
+	},
+	{
+		"name": "Coralcrab",
+		"category": ["Fauna A-F"],
+		"requires": "|Bradbury System| or |Eridani System| or |Jaffa System| or |Alpha Tirna System| or |Ursae Majoris System| or |Procyon A System|"
+	},
+	{
+		"name": "Coralcrawler",
+		"category": ["Fauna A-F"],
+		"requires": "|Alpha Centauri System| or |Bannoc System| or |Oborum Prime System| or |Shoza System| or |Procyon A System| or |Ursae Minoris System| or |Serpentis System| or |Kumasi System|"
+	},
+	{
+		"name": "Coralheart",
+		"category": ["Fauna A-F"],
+		"requires": "|Andromas System| or |Bannoc System| or |Bohr System| or |Bradbury System| or |Leviathan System| or |Newton System| or |Narion System| or |Tidacha System| or |Copernicus System| or |Guniibuu System| or |Oborum Prime System| or |Procyon A System| or |Shoza System| or |Beta Marae System|"
+	},
+	{
+		"name": "Crab",
+		"category": ["Fauna A-F"],
+		"requires": "|Bradbury System| or |Alpha Tirna System| or |Bara System| or |Freya System| or |Ixyll System| or |Muphrid System| or |Serpentis System| or |Tidacha System| or |Beta Ternion System| or |Eridani System| or |Narion System| or |Bel System| or |Denebola System| or |Hawking System| or |Alpha Ternion System| or |Alpha Tirna System| or |Rutherford System|"
+	},
+	{
+		"name": "Crabfly",
+		"category": ["Fauna A-F"],
+		"requires": "|Enlil System| or |Freya System| or |Decaran System| or |Procyon A System| or |Schrodinger System| or |Bara System|"
+	},
+	{
+		"name": "Crag Sprinter",
+		"category": ["Fauna A-F"],
+		"requires": ["Feynman System"]
+	},
+	{
+		"name": "Cranehopper",
+		"category": ["Fauna A-F"],
+		"requires": "|Charybdis System| or |Al-Battani System|"
+	},
+	{
+		"name": "Cricket",
+		"category": ["Fauna A-F"],
+		"requires": "|Archimedes System| or |Beta Ternion System| or |Shoza System| or |Tau Ceti System| or |Alpha Tirna System| or |Copernicus System| or |Bardeen System| or |Katydid System|"
+	},
+	{
+		"name": "Crocalpyse",
+		"category": ["Fauna A-F"],
+		"requires": "|Bohr System| or |Archimedes System| or |Nemeria System| or |Leonis System|"
+	},
+	{
 		"name": "Crocodaunt",
 		"category": ["Fauna A-F"],
-		"requires": ["Vega System"]
+		"requires": "|Alpha Centauri System| or |Leonis System| or |Vega System|"
+	},
+	{
+		"name": "Cutterhead",
+		"category": ["Fauna A-F"],
+		"requires": "|Newton System| or |Narion System| or |Heinlein System| or |Serpentis System| or |Alpha Centauri System| or |Katydid System| or |Rivera System|"
+	},
+	{
+		"name": "Cyclozard",
+		"category": ["Fauna A-F"],
+		"requires": "|Huygens System| or |Khayyam System|"
+	},
+	{
+		"name": "Dodo",
+		"category": ["Fauna A-F"],
+		"requires": "|Cheyenne System| or |Freya System| or |Zeta Ophiuchi System|"
+	},
+	{
+		"name": "Dragon",
+		"category": ["Fauna A-F"],
+		"requires": "|Proxima Ternion System| or |Bardeen System| or |Gamma Vulpes System| or |Serpentis System| or |Tidacha System|"
+	},
+	{
+		"name": "Dragondon",
+		"category": ["Fauna A-F"],
+		"requires": ["Al-Battani System"]
+	},
+	{
+		"name": "Dragonfly",
+		"category": ["Fauna A-F"],
+		"requires": "|Charybdis System| or |Huygens System|"
+	},
+	{
+		"name": "Drone",
+		"category": ["Fauna A-F"],
+		"requires": "|Bel System| or |Sparta System| or |Heisenberg System|"
+	},
+	{
+		"name": "Dropsalm",
+		"category": ["Fauna A-F"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Dust Devil",
+		"category": ["Fauna A-F"],
+		"requires": ["Alpha Centauri System"]
+	},
+	{
+		"name": "Earback",
+		"category": ["Fauna A-F"],
+		"requires": "|Syrma System| or |Guniibuu System|"
+	},
+	{
+		"name": "Eggback",
+		"category": ["Fauna A-F"],
+		"requires": "|Tau Ceti System| or |Beta Marae System| or |Khayyam System|"
+	},
+	{
+		"name": "Eggsac",
+		"category": ["Fauna A-F"],
+		"requires": "|Altair System| or |Kryx System| or |Bradbury System| or |Zeta Ophiuchi System|"
+	},
+	{
+		"name": "Eggtail",
+		"category": ["Fauna A-F"],
+		"requires": "|Khayyam System| or |Charybdis System|"
 	},
 	{
 		"name": "Elk Crangon",
@@ -100,244 +330,308 @@
 		"requires": ["Cheyenne System"]
 	},
 	{
-		"name": "Eggback Herbivore",
+		"name": "Ensifer",
 		"category": ["Fauna A-F"],
-		"requires": ["Tau Ceti System"]
-	},
-	{
-		"name": "Flamethorn Grazer",
-		"category": ["Fauna A-F"],
-		"requires": "|Bel System| or |Charybdis System| or |Leonis System| or |Rivera System| or |Shoza System| or |Zelazny System|"
-	},
-	{
-		"name": "Flamethorn Herbivore",
-		"category": ["Fauna A-F"],
-		"requires": "|Kumasi System| or |Alpha Tirna System| or |Verne System|"
-	},
-	{
-		"name": "Flocking Ankylosaurus Geophage",
-		"category": ["Fauna A-F"],
-		"requires": ["Valo System"]
-	},
-	{
-		"name": "Flocking Glowhand Grazer",
-		"category": ["Fauna A-F"],
-		"requires": ["Tidacha System"]
-	},
-	{
-		"name": "Flocking Hornface Grazer",
+		"requires": ["Cheyenne System"]
+	},		{
+		"name": "Eurypterid",
 		"category": ["Fauna A-F"],
 		"requires": ["Cheyenne System"]
 	},
 	{
-		"name": "Flocking Octomaggot Grazer",
+		"name": "Exocrawler",
 		"category": ["Fauna A-F"],
-		"requires": "|Masada System| or |Procyon A System|"
+		"requires": "|Lunara System| or |Schrodinger System| or |Copernicus Minor System| or |Algorab System| or |Heisenberg System| or |Bardeen System| or |Guniibuu System| or |Delta Pavonis System| or |Bel System|"
 	},
 	{
-		"name": "Flocking Orchid Scavenger",
+		"name": "Exorunner",
 		"category": ["Fauna A-F"],
-		"requires": ["Arcturus System"]
+		"requires": "|Archimedes System| or |Maal System| or |Fermi System| or |Rivera System| or |Ursae Majoris System| or |Pyraas System|"
 	},
 	{
-		"name": "Flocking Shardhopper Geophage",
+		"name": "Exowhale",
 		"category": ["Fauna A-F"],
-		"requires": "|Alpha Centauri System| or |Lantana System|"
+		"requires": "|Kumasi System| or |Bara System| or |Rana System|"
 	},
 	{
-		"name": "Flocking Toadface Herbivore",
+		"name": "Eyespine",
 		"category": ["Fauna A-F"],
-		"requires": ["Alpha Tirna System"]
+		"requires": ["Alpha Ternion System"]
 	},
 	{
-		"name": "Flocking Trident Grazer",
+		"name": "Featherfin",
 		"category": ["Fauna A-F"],
-		"requires": ["Volii System"]
+		"requires": "|Procyon A System| or |Cheyenne System|"
 	},
 	{
-		"name": "Glider Scavenger",
-		"category": ["Fauna G-L"],
-		"requires": "|Beta Ternion System| or |Eridani System|"
+		"name": "Finback",
+		"category": ["Fauna A-F"],
+		"requires": "|Leviathan System| or |Huygens System| or |Porrima System| or |Linnaeus System| or |Rana System| or |Guniibuu System| or |Jaffa System|"
 	},
 	{
-		"name": "Glowhands Grazer",
-		"category": ["Fauna G-L"],
-		"requires": ["Shoza System"]
+		"name": "Fingerface",
+		"category": ["Fauna A-F"],
+		"requires": "|Alpha Marae System| or |Fermi System| or |Syrma System|"
 	},
 	{
-		"name": "Gossamer Scavenger",
-		"category": ["Fauna G-L"],
-		"requires": "|Procyon A System| or |Zosma System|"
+		"name": "Flamethorn",
+		"category": ["Fauna A-F"],
+		"requires": "|Gamma Vulpes System| or |Ursae Majoris System| or |Nirah System| or |Masada System| or |Bel System| or |Charybdis System| or |Leonis System| or |Rivera System| or |Shoza System| or |Zelazny System| or |Kumasi System| or |Alpha Tirna System| or |Verne System| or |Ixyll System| or |Rana System| or |Schrodinger System| or |Sparta System|"
 	},
 	{
-		"name": "Grabber Filterer",
-		"category": ["Fauna G-L"],
-		"requires": "|Denebola System| or |Gamma Vulpes System| or |Jaffa System| or |Valo System| or |Shoza System|"
+		"name": "Flapwheel",
+		"category": ["Fauna A-F"],
+		"requires": "|Ursae Majoris System| or |Heisenberg System|"
 	},
 	{
-		"name": "Grazing Ensifer",
-		"category": ["Fauna G-L"],
+		"name": "Fleshleaf",
+		"category": ["Fauna A-F"],
+		"requires": "|Enlil System| or |Pyraas System| or |Zelazny System|"
+	},
+	{
+		"name": "Fluke",
+		"category": ["Fauna A-F"],
+		"requires": "|Masada System| or |Denebola System|"
+	},
+	{
+		"name": "Flying Leech",
+		"category": ["Fauna A-F"],
 		"requires": ["Cheyenne System"]
 	},
 	{
-		"name": "Herding Bighorn Geophage",
-		"category": ["Fauna G-L"],
-		"requires": ["Valo System"]
+		"name": "Foxbat",
+		"category": ["Fauna A-F"],
+		"requires": "|Jaffa System| or |Schrodinger System|"
 	},
 	{
-		"name": "Herding Boneback Grazer",
+		"name": "Geckon",
 		"category": ["Fauna G-L"],
-		"requires": "|Denebola System| or |Ixyll System| or |Newton System|"
+		"requires": "|Beta Ternion System| or |Olympus System|"
 	},
 	{
-		"name": "Herding Boneback Scavenger",
+		"name": "Ghost",
+		"category": ["Fauna G-L"],
+		"requires": ["Charybdis System"]
+	},
+	{
+		"name": "Glider",
+		"category": ["Fauna G-L"],
+		"requires": "|Kang System| or |Beta Ternion System| or |Eridani System| or |Toliman System| or |Rutherford System| or |Charybdis System| or |Archimedes System| or |Moloch System| or |Charybdis System| or |Rasalhague System|"
+	},
+	{
+		"name": "Glowback",
+		"category": ["Fauna G-L"],
+		"requires": "|Celebrai System| or |Kumasi System|"
+	},
+	{
+		"name": "Glowhands",
+		"category": ["Fauna G-L"],
+		"requires": "|Tidacha System| or |Narion System| or |Shoza System| or |Zelazny System| or |Shoza System| or |Piazzi System| or |Freya System| or |Ixyll System| or |Khayyam System|"
+	},
+	{
+		"name": "Gossamer",
+		"category": ["Fauna G-L"],
+		"requires": "|Bel System| or |Copernicus System| or |Ixyll System| or |Moloch System| or |Lunara System| or |Procyon A System| or |Zosma System|"
+	},
+	{
+		"name": "Grabber",
+		"category": ["Fauna G-L"],
+		"requires": "|Denebola System| or |Gamma Vulpes System| or |Jaffa System| or |Valo System| or |Shoza System| or |Serpentis System| or |Algorab System| or |Bardeen System| or |Bel System| or |Beta Marae System| or |Maal System| or |Nirvana System| or |Alpha Ternion System| or |Lunara System| or |Kumasi System| or |Archimedes System| or |Copernicus System| or |Moloch System|"
+	},
+	{
+		"name": "Greater Jaffa Lizard",
+		"category": ["Fauna G-L"],
+		"requires": ["Jaffa System"]
+	},
+	{
+		"name": "Grub",
+		"category": ["Fauna G-L"],
+		"requires": "|Hawking System| or |Feynman System| or |Freya System| or |Vega System| or |Charybdis System| or |Verne System|"
+	},
+	{
+		"name": "Hammersaur",
+		"category": ["Fauna G-L"],
+		"requires": "|Gamma Vulpes System| or |Hawking System| or |Rana System| or |Shoza System| or |Sparta System|"
+	},
+	{
+		"name": "Hippodon",
+		"category": ["Fauna G-L"],
+		"requires": "|Bardeen System| or |Charybdis System| or |Olympus System|"
+	},
+	{
+		"name": "Hookneck",
+		"category": ["Fauna G-L"],
+		"requires": ["Syrma System"]
+	},
+	{
+		"name": "Hornface",
+		"category": ["Fauna G-L"],
+		"requires": "|Cheyenne System| or |Bardeen System| or |Oborum Prime System| or |Shoza System| or |Muphrid System|"
+	},
+	{
+		"name": "Hornwing",
+		"category": ["Fauna G-L"],
+		"requires": ["Archimedes System"]
+	},
+	{
+		"name": "Horsamander",
+		"category": ["Fauna G-L"],
+		"requires": "|Leonis System| or |Cheyenne System| or |Delta Pavonis System| or |Bel System| or |Ixyll System| or |Vega System| or |Celebrai System| or |Moloch System| or |Bardeen System| or |Marduk System|"
+	},
+	{
+		"name": "Ikuradon",
+		"category": ["Fauna G-L"],
+		"requires": "|Hyla System| or |Lantana System|"
+	},
+	{
+		"name": "Jackknife",
+		"category": ["Fauna G-L"],
+		"requires": "|Proxima Ternion System| or |Schrodinger System| or |Eta Cassiopeia System| or |Kumasi System| or |Alpha Andraste System| or |Arcturus System| or |Hawking System|"
+	},
+	{
+		"name": "Jaffa Lizard",
+		"category": ["Fauna G-L"],
+		"requires": ["Jaffa System"]
+	},
+	{
+		"name": "Jellyfin",
+		"category": ["Fauna G-L"],
+		"requires": "|Eridani System| or |Fermi System| or |Huygens System| or |Lantana System| or |Nemeria System|"
+	},
+	{
+		"name": "Kelpstrider",
+		"category": ["Fauna G-L"],
+		"requires": ["Archimedes System"]
+	},
+	{
+		"name": "Kreet",
 		"category": ["Fauna G-L"],
 		"requires": ["Narion System"]
 	},
 	{
-		"name": "Herding Bonemane Grazer",
+		"name": "Kronosaurus",
 		"category": ["Fauna G-L"],
-		"requires": "|Delta Pavonis System| or |Tau Ceti System|"
+		"requires": "|Procyon A System| or |Nirvana System| or |Rana System| or |Valo System| or |Heinlein System| or |Gamma Vulpes System| or |Narion System| or |Bardeen System| or |Fermi System| or |Muphrid System|"
 	},
 	{
-		"name": "Herding Brainsprout Grazer",
+		"name": "Lacraia",
 		"category": ["Fauna G-L"],
-		"requires": "|Arcturus System| or |Feynman System| or |Rutherford System|"
+		"requires": "|Katydid System| or |Pyraas System|"
 	},
 	{
-		"name": "Herding Coralcrawler Grazer",
+		"name": "Landshark",
 		"category": ["Fauna G-L"],
-		"requires": "|Procyon A System| or |Ursae Minoris System|"
+		"requires": "|Arcturus System| or |Beta Ternion System| or |Shoza System| or |Masada System| or |Zelazny System| or |Ursae Majoris System|"
 	},
 	{
-		"name": "Herding Coralbucket Filterer",
+		"name": "Leafback",
 		"category": ["Fauna G-L"],
-		"requires": ["Alpha Centauri System"]
+		"requires": "|Alpha Andraste System| or |Leviathan System| or |Pyraas System| or |Pyraas System| or |Beta Ternion System| or |Celebrai System|"
 	},
 	{
-		"name": "Herding Crab Grazer",
+		"name": "Leafbug",
 		"category": ["Fauna G-L"],
-		"requires": "|Ixyll System| or |Muphrid System| or |Serpentis System|"
+		"requires": "|Alpha Ternion System| or |Archimedes System| or |Sparta System| or |Porrima System| or |Serpentis System| or |Heisenberg System| or |Porrima System| or |Nemeria System|"
 	},
 	{
-		"name": "Herding Crab Herbivore",
+		"name": "Leafstrider",
 		"category": ["Fauna G-L"],
-		"requires": "|Serpentis System| or |Tidacha System|"
+		"requires": "|Beta Marae System| or |Rana System| or |Bara System| or |Aranae System| or |Eridani System| or |Moloch System| or |Verne System| or |Zelazny System|"
 	},
 	{
-		"name": "Herding Crabfly Grazer",
+		"name": "Leecher",
 		"category": ["Fauna G-L"],
-		"requires": "|Decaran System| or |Procyon A System| or |Schrodinger System|"
+		"requires": "|Algorab System| or |Rasalhague System|"
 	},
 	{
-		"name": "Herding Horsamander Herbivore",
+		"name": "Lionbear",
 		"category": ["Fauna G-L"],
-		"requires": ["Vega System"]
+		"requires": "|Rana System| or |Alpha Andraste System| or |Beta Ternion System| or |Celebrai System| or |Rivera System|"
 	},
 	{
-		"name": "Herding Leafbug Grazer",
+		"name": "Lionfish",
 		"category": ["Fauna G-L"],
-		"requires": "|Porrima System| or |Serpentis System|"
+		"requires": "|Gamma Vulpes System| or |Copernicus System| or |Verne System|"
 	},
 	{
-		"name": "Herding Octomaggot Herbivore",
+		"name": "Lockjaw",
 		"category": ["Fauna G-L"],
-		"requires": ["Shoza System"]
+		"requires": "|Leonis System| or |Tidacha System| or |Lunara System| or |Nirah System| or |Archimedes System| or |Hyla System| or |Zelazny System| or |Alpha Andraste System| or |Bohr System| or |Copernicus System|"
 	},
 	{
-		"name": "Herding Scoopback Geophage",
+		"name": "Longarm",
 		"category": ["Fauna G-L"],
-		"requires": "|Al-Battani System| or |Strix System|"
+		"requires": ["Zelazny System"]
 	},
 	{
-		"name": "Herding Trihorn Grazer",
+		"name": "Longhorn",
 		"category": ["Fauna G-L"],
-		"requires": "|Alpha Andraste System| or |Bradbury System| or |Valo System|"
+		"requires": "|Kryx System| or |Gamma Vulpes System| or |Celebrai System| or |Alpha Andraste System| or |Oborum Prime System|"
 	},
 	{
-		"name": "Herding Vuvuzelisk Grazer",
+		"name": "Longneck",
 		"category": ["Fauna G-L"],
-		"requires": "|Beta Ternion System| or |Eridani System| or |Ursae Majoris System|"
+		"requires": "|Groombridge System| or |Zeta Ophiuchi System|"
 	},
 	{
-		"name": "Hunting Ankylosaurus",
+		"name": "Loxodont",
 		"category": ["Fauna G-L"],
-		"requires": ["Tau Ceti System"]
+		"requires": "|Schrodinger System| or |Nirvana System|"
 	},
 	{
-		"name": "Hunting Bighorn",
+		"name": "Lurefish",
 		"category": ["Fauna G-L"],
-		"requires": "|Eridani System| or |Toliman System|"
+		"requires": "|Guniibuu System| or |Syrma System| or |Muphrid System|"
 	},
 	{
-		"name": "Hunting Boneshell",
-		"category": ["Fauna G-L"],
-		"requires": "|Archimedes System| or |Beta Marae System| or |Cheyenne System|"
-	},
-	{
-		"name": "Hunting Coralcrab",
-		"category": ["Fauna G-L"],
-		"requires": "|Bradbury System| or |Eridani System| or |Jaffa System| or |Alpha Tirna System| or |Ursae Majoris System|"
-	},
-	{
-		"name": "Hunting Crab",
-		"category": ["Fauna G-L"],
-		"requires": "|Beta Ternion System| or |Eridani System| or |Narion System|"
-	},
-	{
-		"name": "Hunting Cricket",
-		"category": ["Fauna G-L"],
-		"requires": "|Archimedes System| or |Beta Ternion System| or |Shoza System| or |Tau Ceti System| or |Alpha Tirna System|"
-	},
-	{
-		"name": "Hunting Kronosaurus",
-		"category": ["Fauna G-L"],
-		"requires": ["Procyon A System"]
-	},
-	{
-		"name": "Hunting Landshark",
-		"category": ["Fauna G-L"],
-		"requires": "|Arcturus System| or |Beta Ternion System| or |Shoza System|"
-	},
-	{
-		"name": "Hunting Leafstrider",
-		"category": ["Fauna G-L"],
-		"requires": "|Aranae System| or |Eridani System|"
-	},
-	{
-		"name": "Hunting Nightmare",
-		"category": ["Fauna G-L"],
-		"requires": ["Ixyll System"]
-	},
-	{
-		"name": "Hunting Sailgator",
-		"category": ["Fauna G-L"],
-		"requires": "|Maal System| or |McClure System| or |Tidacha System|"
-	},
-	{
-		"name": "Hunting Shieldshell",
-		"category": ["Fauna G-L"],
-		"requires": "|Delta Vulpes System| or |Heinlein System| or |Huygens System| or |Muphrid System| or |Newton System| or |Procyon A System| or |Sparta System| or |Ursae Minoris System|"
-	},
-	{
-		"name": "Hunting Tentabeard",
-		"category": ["Fauna G-L"],
-		"requires": ["Shoza System"]
-	},
-	{
-		"name": "Hunting Tuskfrog",
-		"category": ["Fauna G-L"],
-		"requires": ["Alpha Centauri System"]
-	},
-	{
-		"name": "Milliwhale Geophage",
+		"name": "Maggotmaw",
 		"category": ["Fauna M-R"],
-		"requires": "|Muphrid System| or |Shoza System|"
+		"requires": "|Foucault System| or |Kang System| or |Archimedes System|"
 	},
 	{
-		"name": "Milliwhale Grazer",
+		"name": "Mantodea",
 		"category": ["Fauna M-R"],
-		"requires": "|Porrima System| or |Alpha Tirna System| or |Zelazny System|"
+		"requires": "|Shoza System| or |Masada System|"
+	},
+	{
+		"name": "Marnokk",
+		"category": ["Fauna M-R"],
+		"requires": "|Hawking System| or |Bolivar System| or |Huygens System|"
+	},
+	{
+		"name": "Mayfly",
+		"category": ["Fauna M-R"],
+		"requires": "|Hawking System| or |Tau Ceti System| or |Kumasi System|"
+	},
+	{
+		"name": "Metropus",
+		"category": ["Fauna M-R"],
+		"requires": "|Rana System| or |Freya System|"
+	},
+	{
+		"name": "Milliwhale",
+		"category": ["Fauna M-R"],
+		"requires": "|Guniibuu System| or |Huygens System| or |Indum System| or |Leonis System| or |Leviathan System| or |McClure System| or |Moloch System| or |Zelazny System| or |Olympus System| or |Muphrid System| or |Shoza System| or |Porrima System| or |Alpha Tirna System| or |Gamma Vulpes System|"
+	},
+	{
+		"name": "Monitor",
+		"category": ["Fauna M-R"],
+		"requires": ["Toliman System"]
+	},
+	{
+		"name": "Morion",
+		"category": ["Fauna M-R"],
+		"requires": "|Guniibuu System| or |Alpha Marae System|"
+	},
+	{
+		"name": "Morningstar",
+		"category": ["Fauna M-R"],
+		"requires": ["Freya System"]
+	},
+	{
+		"name": "Mossasaur",
+		"category": ["Fauna M-R"],
+		"requires": ["Zelazny System"]
 	},
 	{
 		"name": "Mossgnath",
@@ -345,124 +639,429 @@
 		"requires": ["Cheyenne System"]
 	},
 	{
-		"name": "Mothwing Grazer",
+		"name": "Mothwing",
 		"category": ["Fauna M-R"],
-		"requires": ["Tidacha System"]
+		"requires": "|Beta Marae System| or |Tidacha System| or |Bara System| or |Charybdis System|"
 	},
 	{
-		"name": "Nautilus Scavenger",
+		"name": "Nailtail",
 		"category": ["Fauna M-R"],
-		"requires": ["Vega System"]
+		"requires": "|Gamma Vulpes System| or |Ixyll System| or |Verne System| or |Zeta Ophiuchi System|"
 	},
 	{
-		"name": "Pack Ankylosaurus",
+		"name": "Nautilus",
 		"category": ["Fauna M-R"],
-		"requires": "|Archimedes System| or |Porrima System| or |Rivera System| or |Tau Ceti System| or |Lunara System|"
+		"requires": "|Serpentis System| or |Vega System| or |Toliman System|"
 	},
 	{
-		"name": "Pack Caterpillar",
+		"name": "Nautiloos",
 		"category": ["Fauna M-R"],
-		"requires": ["Zeta Ophiuchi System"]
+		"requires": "|Al-Battani System| or |Strix System| or |Andromas System| or |Fermi System| or |Maal System|"
 	},
 	{
-		"name": "Pack Coralbug",
+		"name": "Nightmare",
+		"category": ["Fauna M-R"],
+		"requires": ["Ixyll System"]
+	},
+	{
+		"name": "Noid",
+		"category": ["Fauna M-R"],
+		"requires": "|Masada System| or |Muphrid System| or |Lunara System| or |Copernicus Minor System| or |Strix System|"
+	},
+	{
+		"name": "Octomaggot",
+		"category": ["Fauna M-R"],
+		"requires": "|Masada System| or |Procyon A System| or |Bel System| or |Zosma System| or |Shoza System| or |Algorab System| or |Schrodinger System| or |Cheyenne System| or |Heinlein System|"
+	},
+	{
+		"name": "Olgreg",
+		"category": ["Fauna M-R"],
+		"requires": ["Eta Cassiopeia System"]
+	},
+	{
+		"name": "Orchid",
+		"category": ["Fauna M-R"],
+		"requires": "|Lantana System| or |Arcturus System|"
+	},
+	{
+		"name": "Paddlefish",
+		"category": ["Fauna M-R"],
+		"requires": "|Newton System| or |Jaffa System| or |Xi Ophiuchi System| or |Leonis System| or |Shoza System| or |Nirvana System|"
+	},
+	{
+		"name": "Parrothawk",
+		"category": ["Fauna M-R"],
+		"requires": "|Alpha Centauri System| or |Bohr System| or |Bardeen System|"
+	},
+	{
+		"name": "Pearl",
+		"category": ["Fauna M-R"],
+		"requires": "|Bannoc System| or |Denebola System| or |Oborum Prime System| or |Rutherford System|"
+	},
+	{
+		"name": "Pinecone",
+		"category": ["Fauna M-R"],
+		"requires": "|Sparta System| or |Bardeen System| or |Eridani System|"
+	},
+	{
+		"name": "Plateskin",
+		"category": ["Fauna M-R"],
+		"requires": ["Bara System"]
+	},
+	{
+		"name": "Puffball Filterer",
+		"category": ["Fauna M-R"],
+		"requires": "|Huygens System| or |Ixyll System| or |Lantana System| or |Porrima System| or |Ursae Minoris System|"
+	},
+	{
+		"name": "Rainbow Agathan",
+		"category": ["Fauna M-R"],
+		"requires": ["Cheyenne System"]
+	},
+	{
+		"name": "Raptor",
+		"category": ["Fauna M-R"],
+		"requires": ["Eta Cassiopeia System"]
+	},
+	{
+		"name": "Red Mile Mauler",
+		"category": ["Fauna M-R"],
+		"requires": ["Porrima System"]
+	},
+	{
+		"name": "Reefwalker",
 		"category": ["Fauna M-R"],
 		"requires": ["Alpha Centauri System"]
 	},
 	{
-		"name": "Pack Coralbug Stalker",
+		"name": "Rockhound",
 		"category": ["Fauna M-R"],
-		"requires": ["Procyon A System"]
+		"requires": "|Khayyam System| or |Bradbury System| or |Nemeria System| or |Ursae Majoris System| or |Beta Marae System| or |Gamma Vulpes System|"
 	},
 	{
-		"name": "Pack Coralcrab Stalker",
+		"name": "Roundface",
 		"category": ["Fauna M-R"],
-		"requires": ["Procyon A System"]
+		"requires": ["Bardeen System"]
 	},
 	{
-		"name": "Pack Crab",
+		"name": "Roundshell",
 		"category": ["Fauna M-R"],
-		"requires": "|Denebola System| or |Hawking System|"
+		"requires": "|Celebrai System| or |Huygens System| or |Syrma System| or |Beta Marae System| or |Eridani System| or |Delta Vulpes System| or |Gamma Vulpes System|"
 	},
 	{
-		"name": "Pack Glowhands",
-		"category": ["Fauna M-R"],
-		"requires": "|Ixyll System| or |Khayyam System|"
-	},
-	{
-		"name": "Pack Hammersaur",
-		"category": ["Fauna M-R"],
-		"requires": "|Rana System| or |Shoza System| or |Sparta System|"
-	},
-	{
-		"name": "Pack Scarab",
-		"category": ["Fauna M-R"],
-		"requires": "|Leonis System| or |Marduk System| or |Muphrid System| or |Schrodinger System| or |Vega System| or |Zelazny System|"
-	},
-	{
-		"name": "Pack Prong Wing Seabat",
-		"category": ["Fauna M-R"],
-		"requires": ["Alpha Centauri System"]
-	},
-	{
-		"name": "Pearl Filterer",
-		"category": ["Fauna M-R"],
-		"requires": "|Bannoc System| or |Denebola System| or |Oborum Prime System|"
-	},
-	{
-		"name": "Pinecone Scavenger",
-		"category": ["Fauna M-R"],
-		"requires": ["Eridani System"]
-	},
-	{
-		"name": "Schooling Featherfin Filterer",
+		"name": "Sailgator",
 		"category": ["Fauna S-Z"],
-		"requires": "|Cheyenne System| or |Procyon A System|"
+		"requires": "|Kumasi System| or |Rutherford System| or |Maal System| or |McClure System| or |Tidacha System| or |Leonis System|"
+	},
+	{
+		"name": "Saturnine",
+		"category": ["Fauna S-Z"],
+		"requires": "|Olympus System| or |Zelazny System| or |Jaffa System| or |Delta Pavonis System|"
+	},
+	{
+		"name": "Sawhead",
+		"category": ["Fauna S-Z"],
+		"requires": "|Indum System| or |Ixyll System| or |Sparta System| or |Maal System| or |Marduk System|"
+	},
+	{
+		"name": "Scarab",
+		"category": ["Fauna S-Z"],
+		"requires": "|Rasalhague System| or |Heisenberg System| or |Kang System| or |Leonis System| or |Marduk System| or |Muphrid System| or |Schrodinger System| or |Vega System| or |Zelazny System|"
+	},
+	{
+		"name": "Scepter",
+		"category": ["Fauna S-Z"],
+		"requires": "|Alpha Ternion System| or |Nirah System| or |Zelazny System| or |Piazzi System| or |Eridani System|"
+	},
+	{
+		"name": "Scoopback",
+		"category": ["Fauna S-Z"],
+		"requires": "|Al-Battani System| or |Strix System|"
+	},
+	{
+		"name": "Scorpion",
+		"category": ["Fauna S-Z"],
+		"requires": "|Kumasi System| or |Charybdis System| or |Maal System| or |Schrodinger System| or |Serpentis System| or |Algorab System| or |Marduk System| or |Narion System|"
+	},
+	{
+		"name": "Seabat",
+		"category": ["Fauna S-Z"],
+		"requires": "|Alpha Centauri System| or |Bel System| or |Alpha Ternion System| or |Porrima System|"
 	},
 	{
 		"name": "Seahag",
 		"category": ["Fauna S-Z"],
-		"requires": []
+		"requires": "|Alpha Centauri System| or |Xi Ophiuchi System| or |Andromas System| or |Oborum Prime System|"
 	},
 	{
-		"name": "Sloth Grazer",
+		"name": "Seahorse",
 		"category": ["Fauna S-Z"],
-		"requires": ["Vega System"]
+		"requires": "|Gamma Vulpes System| or |Serpentis System|"
 	},
 	{
-		"name": "Spaceroach Filterer",
+		"name": "Sentinel",
 		"category": ["Fauna S-Z"],
-		"requires": "|Beta Ternion System| or |Eridani System| or |Ixyll System| or |Porrima System| or |Syrma System|"
+		"requires": "|Al-Battani System| or |Zelazny System|"
 	},
 	{
-		"name": "Sunflower Filterer",
+		"name": "Shardhopper",
 		"category": ["Fauna S-Z"],
-		"requires": []
+		"requires": "|Alpha Centauri System| or |Lantana System| or |Xi Ophiuchi System| or |Shoza System| or |Kryx System| or |Fermi System| or |Bannoc System| or |Masada System| or |Strix System|"
 	},
 	{
-		"name": "Sunfish Filterer",
+		"name": "Sharkwhale",
 		"category": ["Fauna S-Z"],
-		"requires": ["Alpha Centauri System"]
+		"requires": "|Altair System| or |Andromas System| or |Volii System| or |Marduk System| or |Zeta Ophiuchi System| or |Ixyll System|"
 	},
 	{
-		"name": "Swarming Dragon",
+		"name": "Shellephant",
 		"category": ["Fauna S-Z"],
-		"requires": ["Tidacha System"]
+		"requires": "|Kumasi System| or |Proxima Ternion System| or |Huygens System|"
 	},
 	{
-		"name": "Swarming Foxbat",
+		"name": "Shieldshell",
 		"category": ["Fauna S-Z"],
-		"requires": ["Schrodinger System"]
+		"requires": "|Delta Vulpes System| or |Heinlein System| or |Huygens System| or |Muphrid System| or |Newton System| or |Procyon A System| or |Sparta System| or |Ursae Minoris System|"
 	},
 	{
-		"name": "Swarming Scorpion",
+		"name": "Shroombobber",
+		"category": ["Fauna S-Z"],
+		"requires": ["Copernicus System"]
+	},
+	{
+		"name": "Shroomhead",
+		"category": ["Fauna S-Z"],
+		"requires": ["Groombridge System"]
+	},
+	{
+		"name": "Silverfish",
+		"category": ["Fauna S-Z"],
+		"requires": "|Nirah System| or |Tau Ceti System| or |Eta Cassiopeia System| or |Charybdis System|"
+	},
+	{
+		"name": "Siren",
+		"category": ["Fauna S-Z"],
+		"requires": ["Narion System"]
+	},
+	{
+		"name": "Skullface",
+		"category": ["Fauna S-Z"],
+		"requires": "|Charybdis System| or |Syrma System| or |Khayyam System|"
+	},
+	{
+		"name": "Sloth",
+		"category": ["Fauna S-Z"],
+		"requires": "|Vega System| or |Hawking System|"
+	},
+	{
+		"name": "Snail",
+		"category": ["Fauna S-Z"],
+		"requires": "|Andromas System| or |Enlil System| or |Leonis System|"
+	},
+	{
+		"name": "Snuffler",
+		"category": ["Fauna S-Z"],
+		"requires": "|Leonis System| or |Kang System| or |Gamma Vulpes System|"
+	},
+	{
+		"name": "Spaceroach",
+		"category": ["Fauna S-Z"],
+		"requires": "|Beta Ternion System| or |Eridani System| or |Ixyll System| or |Porrima System| or |Syrma System| or |Al-Battani System| or |Newton System| or |Serpentis System| or |Bel System| or |Eta Cassiopeia System| or |Charybdis System| or |Pyraas System| or |Rana System| or |Hawking System| or |Alpha Tirna System| or |Archimedes System| or |Fermi System|"
+	},
+	{
+		"name": "Spiderwasp",
+		"category": ["Fauna S-Z"],
+		"requires": "|Bardeen System| or |Enlil System| or |Zosma System| or |Sparta System|"
+	},
+	{
+		"name": "Spikeworm",
+		"category": ["Fauna S-Z"],
+		"requires": "|Feynman System| or |Lantana System| or |Celebrai System|"
+	},
+	{
+		"name": "Spore",
+		"category": ["Fauna S-Z"],
+		"requires": "|Feynman System| or |Ursae Majoris System|"
+	},
+	{
+		"name": "Sporeback",
+		"category": ["Fauna S-Z"],
+		"requires": "|Charybdis System| or |Sparta System|"
+	},
+	{
+		"name": "Stingback",
+		"category": ["Fauna S-Z"],
+		"requires": "|Rana System| or |Pyraas System|"
+	},
+	{
+		"name": "Stingray",
+		"category": ["Fauna S-Z"],
+		"requires": "|Zeta Ophiuchi System| or |Rana System| or |Syrma System| or |Zelazny System|"
+	},
+	{
+		"name": "Stoneback",
+		"category": ["Fauna S-Z"],
+		"requires": ["Leonis System"]
+	},
+	{
+		"name": "Stonewalker",
+		"category": ["Fauna S-Z"],
+		"requires": "|Archimedes System| or |Bradbury System| or |Verne System| or |Khayyam System| or |Beta Ternion System| or |Eta Cassiopeia System| or |Feynman System|"
+	},
+	{
+		"name": "Sunfish",
+		"category": ["Fauna S-Z"],
+		"requires": "|Fermi System| or |Alpha Centauri System|"
+	},
+	{
+		"name": "Sunflower",
+		"category": ["Fauna S-Z"],
+		"requires": "|Altair System| or |Freya System| or |Copernicus System| or |Newton System| or |Shoza System| or |Cheyenne System|"
+	},
+		{
+		"name": "Tapeworm",
+		"category": ["Fauna S-Z"],
+		"requires": "|Moloch System| or |Huygens System|"
+	},
+	{
+		"name": "Tentabeard",
+		"category": ["Fauna S-Z"],
+		"requires": "|Shoza System| or |Groombridge System|"
+	},
+	{
+		"name": "Thorn",
+		"category": ["Fauna S-Z"],
+		"requires": "|Beta Ternion System| or |Huygens System| or |Nemeria System| or |Serpentis System| or |Strix System| or |Celebrai System| or |Guniibuu System| or |Proxima Ternion System| or |Tidacha System| or |Ursae Minoris System| or |Algorab System| or |Bohr System| or |Ixyll System| or |Zosma System|"
+	},
+	{
+		"name": "Thornmantis",
+		"category": ["Fauna S-Z"],
+		"requires": "|Verne System| or |Hawking System|"
+	},
+	{
+		"name": "Toadface",
+		"category": ["Fauna S-Z"],
+		"requires": "|Alpha Tirna System| or |Schrodinger System| or |Delta Pavonis System| or |Kumasi System| or |Gamma Vulpes System| or |Indum System| or |Kumasi System|"
+	},
+	{
+		"name": "Tongueface",
+		"category": ["Fauna S-Z"],
+		"requires": "|Moloch System| or |Guniibuu System| or |Hyla System| or |Rana System| or |Porrima System| or |Gamma Vulpes System| or |Beta Ternion System|"
+	},
+	{
+		"name": "Trapmaw",
+		"category": ["Fauna S-Z"],
+		"requires": "|Bel System| or |Indum System| or |Toliman System| or |Alpha Andraste System| or |Archimedes System| or |Eridani System| or |Huygens System| or |Piazzi System| or |Rana System| or |Syrma System|"
+	},
+	{
+		"name": "Triantler",
+		"category": ["Fauna S-Z"],
+		"requires": "|Zeta Ophiuchi System| or |Olympus System|"
+	},
+	{
+		"name": "Trident",
+		"category": ["Fauna S-Z"],
+		"requires": "|Volii System| or |Celebrai System| or |Linnaeus System| or |Delta Vulpes System| or |Leonis System| or |Porrima System| or |Eridani System| or |Alpha Andraste System|"
+	},
+	{
+		"name": "Trihorn",
+		"category": ["Fauna S-Z"],
+		"requires": "|Tau Ceti System| or |Kumasi System| or |Alpha Andraste System| or |Bradbury System| or |Valo System| or |Pyraas System| or |Bel System| or |Hyla System| or |Zelazny System|"
+	},
+	{
+		"name": "Trilobite",
+		"category": ["Fauna S-Z"],
+		"requires": "|Narion System| or |Algorab System| or |Enlil System| or |Heisenberg System| or |Hyla System| or |Jaffa System| or |Maal System| or |Marduk System| or |Schrodinger System| or |Tau Ceti System| or |Copernicus System| or |Kryx System| or |Charybdis System| or |Leonis System| or |Alpha Centauri System|"
+	},
+	{
+		"name": "Triworm",
+		"category": ["Fauna S-Z"],
+		"requires": "|Heinlein System| or |Strix System| or |Charybdis System| or |Copernicus System| or |Nirvana System|"
+	},
+	{
+		"name": "Tubecrawler",
+		"category": ["Fauna S-Z"],
+		"requires": "|Rana System| or |Rivera System| or |Bardeen System|"
+	},
+	{
+		"name": "Tubule",
+		"category": ["Fauna S-Z"],
+		"requires": "|Bolivar System| or |Archimedes System|"
+	},
+	{
+		"name": "Tuskfrog",
+		"category": ["Fauna S-Z"],
+		"requires": "|Serpentis System| or |Alpha Centauri System| or |Zeta Ophiuchi System| or |Toliman System|"
+	},
+	{
+		"name": "Twigwalker",
 		"category": ["Fauna S-Z"],
 		"requires": ["Marduk System"]
 	},
 	{
-		"name": "Thorn Scavenger",
+		"name": "Twingrub",
 		"category": ["Fauna S-Z"],
-		"requires": "|Algorab System| or |Bohr System| or |Ixyll System| or |Zosma System|"
+		"requires": "|Foucault System| or |Muphrid System|"
+	},
+	{
+		"name": "Twintail",
+		"category": ["Fauna S-Z"],
+		"requires": "|Kumasi System| or |Alpha Andraste System|"
+	},
+	{
+		"name": "Twistfin",
+		"category": ["Fauna S-Z"],
+		"requires": "|Olympus System| or |Kumasi System| or |Shoza System| or |Bohr System|"
+	},
+	{
+		"name": "Unishark",
+		"category": ["Fauna S-Z"],
+		"requires": "|Maal System| or |Alpha Tirna System| or |Hyla System| or |Leonis System| or |McClure System|"
+	},
+	{
+		"name": "Vampire",
+		"category": ["Fauna S-Z"],
+		"requires": ["Fermi System"]
+	},
+	{
+		"name": "Vectorback",
+		"category": ["Fauna S-Z"],
+		"requires": "|Pyraas System| or |Maal System| or |Beta Marae System| or |Guniibuu System| or |Huygens System| or |Olympus System|"
+	},
+	{
+		"name": "Vulture",
+		"category": ["Fauna S-Z"],
+		"requires": "|Charybdis System| or |Valo System|"
+	},
+	{
+		"name": "Vuvuzelisk",
+		"category": ["Fauna S-Z"],
+		"requires": "|Olympus System| or |Alpha Tirna System| or |Eta Cassiopeia System| or |Beta Ternion System| or |Eridani System| or |Ursae Majoris System| or |Bardeen System| or |McClure System|"
+	},
+	{
+		"name": "Whaleshark",
+		"category": ["Fauna S-Z"],
+		"requires": "|Nemeria System| or |Rana System| or |Beta Andraste System|"
+	},
+	{
+		"name": "Wiggler",
+		"category": ["Fauna S-Z"],
+		"requires": "|Alpha Tirna System| or |Beta Ternion System|"
+	},
+	{
+		"name": "Windbag",
+		"category": ["Fauna S-Z"],
+		"requires": "|Kang System| or |Copernicus System| or |Heisenberg System| or |Leviathan System| or |Newton System| or |Enlil System|"
+	},
+	{
+		"name": "Wobbleback",
+		"category": ["Fauna S-Z"],
+		"requires": "|Aranae System| or |Jaffa System|"
+	},
+	{
+		"name": "Worm",
+		"category": ["Fauna S-Z"],
+		"requires": "|Beta Ternion System| or |Syrma System| or |Algorab System|"
 	},
 	{
 		"name": "Abyss Pine Seedling",
@@ -693,5 +1292,160 @@
 		"name": "Tremor Root",
 		"category": ["Flora S-Z"],
 		"requires": []
+	},
+		{
+		"name": "Active Faulting",
+		"category": ["Planetary Traits"],
+		"requires": "|Alpha Centauri System| or |Alpha Tirna System| or |Bel System| or |Carinae System| or |Copernicus System| or |Enlil System| or |Eridani System| or |Groombridge System| or |Heisenberg System| or |Huygens System| or |Hyla System| or |Ixyll System| or |Jaffa System| or |Kang System| or |Katydid System| or |Lantana System| or |Linnaeus System| or |Maal System| or |Marduk System| or |Kryx System| or |Muphrid System| or |Nirvana System| or |Olympus System| or |Piazzi System| or |Procyon A System| or |Rasalhague System| or |Schrodinger System| or |Cheyenne System| or |Sol System| or |Strix System| or |Syrma System| or |Xi Ophiuchi System|"
+	},
+		{
+		"name": "Aeriform Life",
+		"category": ["Planetary Traits"],
+		"requires": "|Andromas System| or |Archimedes System| or |Bannoc System| or |Bel System| or |Beta Marae System| or |Bohr System| or |Eta Cassiopeia System| or |Celebrai System| or |Charybdis System| or |Copernicus System| or |Enlil System| or |Eridani System| or |Groombridge System| or |Guniibuu System| or |Heisenberg System| or |Hyla System| or |Indum System| or |Jaffa System| or |Khayyam System| or |Kumasi System| or |Leonis System| or |Marduk System| or |McClure System| or |Moloch System| or |Nemeria System|"
+	},
+		{
+		"name": "Amphibious Foothold",
+		"category": ["Planetary Traits"],
+		"requires": "|Andromas System| or |Archimedes System| or |Bara System| or |Bardeen System| or |Bel System| or |Eta Cassiopeia System| or |Copernicus System| or |Denebola System| or |Gamma Vulpes System| or |Groombridge System| or |Guniibuu System| or |Heinlein System| or |Heisenberg System| or |Huygens System| or |Ixyll System| or |Jaffa System| or |Kang System| or |Katydid System| or |Kumasi System| or |Leonis System| or |Maheo System| or |Masada System| or |Moloch System| or |Muphrid System| or |Nemeria System| or |Newton System| or |Nirvana System| or |Piazzi System| or |Porrima System| or |Schrodinger System| or |Serpentis System| or |Syrma System| or |Tau Ceti System| or |Alpha Tirna System| or |Toliman System| or |Ursae Majoris System| or |Xi Ophiuchi System|"
+	},
+		{
+		"name": "Boiled Seas",
+		"category": ["Planetary Traits"],
+		"requires": "|Al-Battani System| or |Alpha Andraste System| or |Alpha Centauri System| or |Arcturus System| or |Bardeen System| or |Nirah System| or |Fermi System| or |Foucault System| or |Guniibuu System| or |Heinlein System| or |Huygens System| or |Hyla System| or |Kang System| or |Narion System| or |Maal System| or |Marduk System| or |Valo System| or |Muphrid System| or |Nirvana System| or |Porrima System| or |Procyon B System| or |Proxima Ternion System| or |Rana System| or |Rutherford System| or |Serpentis System| or |Shoza System| or |Syrma System| or |Tidacha System| or |Alpha Tirna System| or |Ursae Majoris System| or |Ursae Minoris System| or |Zelazny System|"
+	},
+		{
+		"name": "Bolide Bombardment",
+		"category": ["Planetary Traits"],
+		"requires": "|Alpha Tirna System| or |Aranae System| or |Bara System| or |Bardeen System| or |Beta Marae System| or |Bohr System| or |Charybdis System| or |Copernicus System| or |Eridani System| or |Fermi System| or |Foucault System| or |Hawking System| or |Heinlein System| or |Hyla System| or |Khayyam System| or |Lantana System| or |Linnaeus System| or |Maal System| or |Marduk System| or |McClure System| or |Nemeria System| or |Newton System| or |Nirvana System| or |Porrima System| or |Procyon A System| or |Pyraas System| or |Rana System| or |Rutherford System| or |Schrodinger System| or |Serpentis System| or |Shoza System| or |Syrma System| or |Alpha Ternion System| or |Tidacha System| or |Alpha Tirna System| or |Toliman System| or |Ursae Minoris System| or |Verne System| or |Lunara System| or |Volii System| or |Xi Ophiuchi System| or |Zelazny System| or |Delta Pavonis System|"
+	},
+		{
+		"name": "Charred Ecosystem",
+		"category": ["Planetary Traits"],
+		"requires": "|Al-Battani System| or |Algorab System| or |Alpha Centauri System| or |Archimedes System| or |Bannoc System| or |Bara System| or |Bradbury System| or |Fermi System| or |Feynman System| or |Foucault System| or |Freya System| or |Guniibuu System| or |Huygens System| or |Kang System| or |Khayyam System| or |Leonis System| or |Leviathan System| or |Linnaeus System| or |Maal System| or |Marduk System| or |McClure System| or |Narion System| or |Lunara System| or |Proxima Ternion System| or |Rana System| or |Rasalhague System| or |Rutherford System| or |Tau Ceti System| or |Alpha Ternion System| or |Alpha Tirna System| or |Ursae Minoris System| or |Verne System|"
+	},
+		{
+		"name": "Continual Conductor",
+		"category": ["Planetary Traits"],
+		"requires": "|Algorab System| or |Alpha Andraste System| or |Alpha Marae System| or |Alpha Tirna System| or |Andromas System| or |Archimedes System| or |Bannoc System| or |Bardeen System| or |Bohr System| or |Delta Vulpes System| or |Denebola System| or |Enlil System| or |Feynman System| or |Foucault System| or |Guniibuu System| or |Hawking System| or |Heinlein System| or |Hyla System| or |Indum System| or |Ixyll System| or |Jaffa System| or |Kang System| or |Lantana System| or |Leviathan System| or |Maal System| or |Marduk System| or |Moloch System| or |Procyon B System| or |Proxima Ternion System| or |Pyraas System| or |Rutherford System| or |Schrodinger System| or |Alpha Ternion System| or |Verne System| or |Xi Ophiuchi System|"
+	},
+		{
+		"name": "Coralline Landmass",
+		"category": ["Planetary Traits"],
+		"requires": "|Cheyenne System| or |Alchiba System| or |Alpha Centauri System| or |Altair System| or |Bara System| or |Bohr System| or |Bradbury System| or |Carinae System| or |Eta Cassiopeia System| or |Charybdis System| or |Copernicus Minor System| or |Copernicus System| or |Delta Vulpes System| or |Foucault System| or |Gamma Vulpes System| or |Groombridge System| or |Guniibuu System| or |Hawking System| or |Heinlein System| or |Heisenberg System| or |Huygens System| or |Hyla System| or |Indum System| or |Ixyll System| or |Katydid System| or |Kumasi System| or |Maheo System| or |Muphrid System| or |Narion System| or |Oborum Prime System| or |Piazzi System| or |Wolf System| or |Procyon A System| or |Pyraas System| or |Rana System| or |Schrodinger System| or |Syrma System| or |Tau Ceti System| or |Alpha Ternion System| or |Verne System| or |Xi Ophiuchi System| or |Zelazny System| or |Zosma System|"
+	},
+		{
+		"name": "Crystalline Crust",
+		"category": ["Planetary Traits"],
+		"requires": "|Cheyenne System| or |Alchiba System| or |Alpha Andraste System| or |Alpha Centauri System| or |Alpha Marae System| or |Altair System| or |Andromas System| or |Bardeen System| or |Bel System| or |Bohr System| or |Bradbury System| or |Carinae System| or |Eta Cassiopeia System| or |Celebrai System| or |Denebola System| or |Narion System| or |Eridani System| or |Gamma Vulpes System| or |Guniibuu System| or |Sol System| or |Heinlein System| or |Hyla System| or |Indum System| or |Ixyll System| or |Jaffa System| or |Kang System| or |Kumasi System| or |Lantana System| or |Leonis System| or |Leviathan System| or |Luyten's Star System| or |Maal System| or |Marduk System| or |Masada System| or |Muphrid System| or |Nemeria System| or |Nirvana System| or |Ophion System| or |Huygens System| or |Porrima System| or |Procyon A System| or |The Pup System| or |Pyraas System| or |Rasalhague System| or |Rutherford System| or |Schrodinger System| or |Serpentis System| or |Shoza System| or |Sirius System| or |Sparta System| or |Syrma System| or |Tau Ceti System| or |Alpha Ternion System| or |Alpha Tirna System| or |Vega System| or |Verne System| or |Xi Ophiuchi System|"
+	},
+		{
+		"name": "Diseased Biosphere",
+		"category": ["Planetary Traits"],
+		"requires": "|Beta Ternion System| or |Bohr System| or |Bradbury System| or |Eridani System| or |Feynman System| or |Heisenberg System| or |Huygens System| or |Jaffa System| or |Kumasi System| or |Lantana System| or |Maal System| or |Delta Pavonis System| or |Maheo System| or |Narion System| or |Nemeria System| or |Newton System| or |Oborum Prime System| or |Serpentis System| or |Lunara System|"
+	},
+		{
+		"name": "Ecological Consortium",
+		"category": ["Planetary Traits"],
+		"requires": "|Algorab System| or |Alpha Centauri System| or |Altair System| or |Arcturus System| or |Bel System| or |Beta Ternion System| or |Bolivar System| or |Decaran System| or |Eridani System| or |Fermi System| or |Gamma Vulpes System| or |Groombridge System| or |Guniibuu System| or |Hawking System| or |Heisenberg System| or |Leviathan System| or |Maheo System| or |Moloch System| or |Muphrid System| or |Nemeria System| or |Newton System| or |Olympus System| or |Nirvana System| or |Valo System| or |Porrima System| or |Proxima Ternion System| or |Rana System| or |Rutherford System| or |Schrodinger System| or |Serpentis System| or |Shoza System| or |Syrma System| or |Tau Ceti System| or |Alpha Ternion System| or |Tidacha System| or |Alpha Tirna System| or |Zelazny System| or |Zeta Ophiuchi System|"
+	},
+		{
+		"name": "Emerging Tectonics",
+		"category": ["Planetary Traits"],
+		"requires": "|Alchiba System| or |Alpha Andraste System| or |Alpha Centauri System| or |Altair System| or |Archimedes System| or |Arcturus System| or |Bel System| or |Beta Marae System| or |Bohr System| or |Decaran System| or |Denebola System| or |Sol System| or |Eridani System| or |Fermi System| or |Foucault System| or |Delta Pavonis System| or |Hyla System| or |Ixyll System| or |Kang System| or |Leonis System| or |Maal System| or |Maheo System| or |Muphrid System| or |Nikola System| or |Procyon A System| or |Rana System| or |Rivera System| or |Schrodinger System| or |Serpentis System| or |Shoza System| or |Sparta System| or |Tau Ceti System| or |Alpha Ternion System| or |Toliman System| or |Vega System| or |Ursae Minoris System| or |Xi Ophiuchi System| or |Zelazny System| or |Zeta Ophiuchi System| or |Zosma System|"
+	},
+		{
+		"name": "Energetic Rifting",
+		"category": ["Planetary Traits"],
+		"requires": "|Al-Battani System| or |Alpha Marae System| or |Altair System| or |Archimedes System| or |Bardeen System| or |Beta Marae System| or |Carinae System| or |Copernicus System| or |Delta Vulpes System| or |Eridani System| or |Fermi System| or |Foucault System| or |Narion System| or |Groombridge System| or |Heinlein System| or |Heisenberg System| or |Ixyll System| or |Jaffa System| or |Nirah System| or |Kang System| or |Katydid System| or |Linnaeus System| or |Maal System| or |Kryx System| or |Muphrid System| or |Nikola System| or |Procyon B System| or |The Pup System| or |Rutherford System| or |Syrma System| or |Alpha Tirna System| or |Verne System| or |Xi Ophiuchi System| or |Zelazny System| or |Zosma System|"
+	},
+		{
+		"name": "Extinction Event",
+		"category": ["Planetary Traits"],
+		"requires": "|Al-Battani System| or |Alpha Tirna System| or |Altair System| or |Denebola System| or |Fermi System| or |Feynman System| or |Rana System| or |Rutherford System| or |Schrodinger System| or |Serpentis System| or |Shoza System| or |Sparta System| or |Alpha Ternion System| or |Alpha Tirna System| or |Xi Ophiuchi System| or |Zosma System|"
+	},
+		{
+		"name": "Frozen Ecosystem",
+		"category": ["Planetary Traits"],
+		"requires": "|Cheyenne System| or |Al-Battani System| or |Alchiba System| or |Alpha Andraste System| or |Altair System| or |Archimedes System| or |Eta Cassiopeia System| or |Copernicus System| or |Feynman System| or |Foucault System| or |Freya System| or |Barnard's Star System| or |Groombridge System| or |Hawking System| or |Huygens System| or |Hyla System| or |Ixyll System| or |Kang System| or |Khayyam System| or |Kumasi System| or |Maal System| or |Masada System| or |Moloch System| or |Nikola System| or |Oborum Proxima System| or |Procyon A System| or |Pyraas System| or |Rana System| or |Rutherford System| or |Schrodinger System| or |Shoza System| or |Sparta System| or |Kryx System| or |Syrma System| or |Tau Ceti System| or |Alpha Ternion System| or |Sol System| or |Verne System|"
+	},
+		{
+		"name": "Gaseous Font",
+		"category": ["Planetary Traits"],
+		"requires": "|Cheyenne System| or |Altair System| or |Andromas System| or |Bannoc System| or |Bardeen System| or |Bradbury System| or |Carinae System| or |Copernicus System| or |Denebola System| or |Enlil System| or |Feynman System| or |Groombridge System| or |Heinlein System| or |Hyla System| or |Ixyll System| or |Khayyam System| or |Kumasi System| or |Leonis System| or |Marduk System| or |Olympus System| or |Nirah System| or |Sol System| or |Moloch System| or |Piazzi System| or |Procyon A System| or |Rana System| or |Rutherford System| or |Schrodinger System| or |Serpentis System| or |Sparta System| or |Van Maanen's Star System| or |Zeta Ophiuchi System| or |Zosma System|"
+	},
+		{
+		"name": "Global Glacial Recession",
+		"category": ["Planetary Traits"],
+		"requires": "|Al-Battani System| or |Alchiba System| or |Algorab System| or |Alpha Centauri System| or |Alpha Marae System| or |Alpha Tirna System| or |Archimedes System| or |Bardeen System| or |Bel System| or |Beta Ternion System| or |Eta Cassiopeia System| or |Copernicus System| or |Sol System| or |Eridani System| or |Feynman System| or |Gamma Vulpes System| or |Groombridge System| or |Guniibuu System| or |Hawking System| or |Heinlein System| or |Huygens System| or |Ixyll System| or |Leonis System| or |Luyten's Star System| or |Maal System| or |Delta Pavonis System| or |Maheo System| or |Muphrid System| or |Narion System| or |Nemeria System| or |Newton System| or |Schrodinger System| or |Serpentis System| or |Sparta System| or |Lunara System| or |Ursae Majoris System| or |Vega System| or |Zelazny System| or |Zeta Ophiuchi System|"
+	},
+	{
+		"name": "Gravitational Anomaly",
+		"category": ["Planetary Traits"],
+		"requires":[]
+	},
+		{
+		"name": "Pelted Fields",
+		"category": ["Planetary Traits"],
+		"requires": "|Alchiba System| or |Alpha Andraste System| or |Alpha Centauri System| or |Beta Ternion System| or |Carinae System| or |Narion System| or |Cheyenne System| or |Enlil System| or |Eridani System| or |Fermi System| or |Feynman System| or |Foucault System| or |Freya System| or |Groombridge System| or |Heinlein System| or |Hyla System| or |Kapteyn's Star System| or |Khayyam System| or |Lantana System| or |Linnaeus System| or |Maal System| or |Marduk System| or |Sol System| or |Moloch System| or |Muphrid System| or |Narion System| or |Rutherford System| or |Schrodinger System| or |Sirius System| or |Sparta System| or |Alpha Tirna System| or |Ursae Majoris System| or |Ursae Minoris System| or |Vega System|"
+	},
+		{
+		"name": "Primed for Life",
+		"category": ["Planetary Traits"],
+		"requires": []
+	},
+		{
+		"name": "Primoridal Network",
+		"category": ["Planetary Traits"],
+		"requires": "|Cheyenne System| or |Charybdis System| or |Guniibuu System| or |Ixyll System| or |Nirah System| or |Fermi System| or |Kumasi System| or |Maal System| or |Nemeria System| or |Piazzi System| or |Porrima System| or |Proxima Ternion System| or |Rutherford System| or |Schrodinger System| or |Shoza System| or |Vega System| or |Verne System|"
+	},
+		{
+		"name": "Prismatic Plumes",
+		"category": ["Planetary Traits"],
+		"requires": "|Al-Battani System| or |Alchiba System| or |Altair System| or |Archimedes System| or |Beta Marae System| or |Bohr System| or |Bradbury System| or |Carinae System| or |Eta Cassiopeia System| or |Copernicus System| or |Enlil System| or |Olympus System| or |Narion System| or |Cheyenne System| or |Eridani System| or |Fermi System| or |Feynman System| or |Freya System| or |Groombridge System| or |Heinlein System| or |Kang System| or |Kumasi System| or |Lantana System| or |Linnaeus System| or |Maal System| or |Marduk System| or |Nemeria System| or |Piazzi System| or |Porrima System| or |Procyon A System| or |Procyon B System| or |Proxima Ternion System| or |Rana System| or |Strix System| or |Ursae Majoris System| or |Xi Ophiuchi System| or |Zelazny System|"
+	},
+		{
+		"name": "Psychotropic Biota",
+		"category": ["Planetary Traits"],
+		"requires": "|Algorab System| or |Alpha Andraste System| or |Altair System| or |Archimedes System| or |Bel System| or |Beta Marae System| or |Eta Cassiopeia System| or |Charybdis System| or |Eridani System| or |Feynman System| or |Freya System| or |Gamma Vulpes System| or |Groombridge System| or |Hawking System| or |Heinlein System| or |Heisenberg System| or |Indum System| or |Jaffa System| or |Nirah System| or |Delta Pavonis System| or |Valo System| or |Narion System| or |Lantana System| or |Marduk System| or |Nemeria System| or |Nirvana System| or |Porrima System| or |Procyon A System| or |Pyraas System| or |Rana System| or |Schrodinger System| or |Shoza System| or |Strix System| or |Tau Ceti System| or |Ursae Majoris System| or |Zelazny System| or |Zeta Ophiuchi System|"
+	},
+		{
+		"name": "Sentient Microbial Colonies",
+		"category": ["Planetary Traits"],
+		"requires": "|Algorab System| or |Alpha Andraste System| or |Altair System| or |Andromas System| or |Bara System| or |Bel System| or |Beta Ternion System| or |Eta Cassiopeia System| or |Charybdis System| or |Copernicus System| or |Decaran System| or |Enlil System| or |Eridani System| or |Feynman System| or |Guniibuu System| or |Huygens System| or |Ixyll System| or |Jaffa System| or |Alpha Centauri System| or |Katydid System| or |Lantana System| or |Leonis System| or |Leviathan System| or |Linnaeus System| or |Maal System| or |Marduk System| or |Masada System| or |Muphrid System| or |Nemeria System| or |Olympus System| or |Valo System| or |Porrima System| or |Pyraas System| or |Rasalhague System| or |Rutherford System| or |Schrodinger System| or |Shoza System| or |Sparta System| or |Alpha Tirna System| or |Toliman System| or |Volii System| or |Zelazny System|"
+	},
+		{
+		"name": "Slushy Subsurface Seas",
+		"category": ["Planetary Traits"],
+		"requires": "|Alchiba System| or |Bardeen System| or |Beta Marae System| or |Bohr System| or |Celebrai System| or |Charybdis System| or |Delta Vulpes System| or |Enlil System| or |Fermi System| or |Feynman System| or |Foucault System| or |Freya System| or |Barnard's Star System| or |Kryx System| or |Nirah System| or |Sol System| or |Gamma Vulpes System| or |Heinlein System| or |Heisenberg System| or |Huygens System| or |Ixyll System| or |Jaffa System| or |Kumasi System| or |Maheo System| or |Masada System| or |Moloch System| or |Muphrid System| or |Newton System| or |Piazzi System| or |Porrima System| or |Rutherford System| or |Schrodinger System| or |Sirius System| or |Strix System| or |Alpha Ternion System| or |Verne System| or |Zosma System|"
+	},
+		{
+		"name": "Solar Storm Seasons",
+		"category": ["Planetary Traits"],
+		"requires": "|Alpha Centauri System| or |Delta Pavonis System| or |Olympus System| or |Sol System| or |Archimedes System| or |Beta Ternion System| or |Bohr System| or |Eta Cassiopeia System| or |Denebola System| or |Enlil System| or |Eridani System| or |Feynman System| or |Foucault System| or |Freya System| or |Hawking System| or |Heinlein System| or |Jaffa System| or |Kang System| or |Kapteyn's Star System| or |Lantana System| or |Leonis System| or |Leviathan System| or |Luyten's Star System| or |Marduk System| or |Moloch System| or |Muphrid System| or |Porrima System| or |Proxima Ternion System| or |Pyraas System| or |Shoza System| or |Syrma System| or |Ursae Majoris System|"
+	},
+		{
+		"name": "Sonorous Lithosphere",
+		"category": ["Planetary Traits"],
+		"requires": "|Alchiba System| or |Archimedes System| or |Bel System| or |Bohr System| or |Eta Cassiopeia System| or |Enlil System| or |Fermi System| or |Groombridge System| or |Guniibuu System| or |Hawking System| or |Heisenberg System| or |Kang System| or |Lantana System| or |Muphrid System| or |Nirvana System| or |Olympus System| or |Cheyenne System| or |Piazzi System| or |Procyon A System| or |Rana System| or |Rutherford System| or |Syrma System| or |Alpha Ternion System| or |Alpha Tirna System| or |Ursae Minoris System| or |Xi Ophiuchi System| or |Zelazny System|"
+	},
+  		{
+		"name": "Fully Scan 25 Fauna",
+		"category": ["Victory Conditions"],
+		"requires": []
+	},
+    		{
+		"name": "Fully Scan 25 Flora",
+		"category": ["Victory Conditions"],
+		"requires": []
+	},
+    		{
+		"name": "Fully Survey 10 Planets/Moons",
+		"category": ["Victory Conditions"],
+		"requires": []
+	},  		{
+		"name": "I am become explorer",
+		"category": ["VICTORY!"],
+		"requires": [],
+		"victory": true
 	}
 ]

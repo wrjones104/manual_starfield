@@ -87,7 +87,7 @@
 		"count":1,
 		"name": "Bannoc Secondus System",
 		"category": ["Star Systems"],
-		"progression": true
+		"useful": true
 	},
 	{
 		"count":1,
@@ -117,7 +117,7 @@
 		"count":1,
 		"name": "Bessel System",
 		"category": ["Star Systems"],
-		"progression": true
+		"useful": true
 	},
 	{
 		"count":1,
@@ -573,13 +573,13 @@
 		"count":1,
 		"name": "Sagan System",
 		"category": ["Star Systems"],
-		"progression": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Sakharov System",
 		"category": ["Star Systems"],
-		"progression": true
+		"useful": true
 	},
 	{
 		"count":1,
@@ -718,5 +718,155 @@
 		"name": "Zosma System",
 		"category": ["Star Systems"],
 		"progression": true
+	},
+	{
+		"count":10,
+		"name": "Perk Point",
+		"category": ["Player Bonuses"]
+	},
+		{
+		"count":10,
+		"name": "+25 Carry Weight",
+		"category": ["Player Bonuses"]
+	},
+		{
+		"count":1,
+		"name": "2x Movement Speed",
+		"category": ["Player Bonuses"]
+	},
+		{
+		"count":1,
+		"name": "Discovery Ship",
+		"category": ["Ships"]
+	},
+		{
+		"count":1,
+		"name": "No Fall Damage",
+		"category": ["Player Bonuses"]
+	},
+		{
+		"count":1,
+		"name": "Increased Melee Damage",
+		"category": ["Player Bonuses"]
+	},
+		{
+		"count":1,
+		"name": "3x Legendary Spawn Chance",
+		"category": ["Player Bonuses"]
+	},
+		{
+		"count":1,
+		"name": "UC AntiXeno Armor Plated",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Incendiary Experimental Nishina Spacesuit",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Sentinel's UC AntiXeno Spacesuit",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Repulsing Explorer Spacesuit",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Peacemaker Spacecuit",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Reactive Experimental Nishina Helmet",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Incendiary UC AntiXeno Space Helmet",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Despondent Assassin",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Eternity's Gate",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Keelhauler",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Memento Mori",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Revenant",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Unmitigated Violence",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Davis Wilson's Rifle",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Peacemaker",
+		"category": ["Gear"]
+	},
+		{
+		"count":1,
+		"name": "Unfair Advantage",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "10x Frag Grenades",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "10x Incendiary Grenades",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "10x Impact Grenades",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "10x Particle Grenades",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "10x Shrapnel Grenades",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "Ammo Cache",
+		"category": ["Gear"]
+	},
+		{
+		"count":10,
+		"name": "10x Digipicks",
+		"category": ["Gear"]
 	}
 ]
